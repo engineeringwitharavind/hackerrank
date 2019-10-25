@@ -49,21 +49,9 @@ Currently This Repository Contains SQL and Python(in-progress)
 | Aggregation | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18) | [MS-SQL Solution]() | 25 |
 | Aggregation | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19) | [MS-SQL Solution]() | 30 |
 | Aggregation | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20) | [MS-SQL Solution]() | 40 |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Advanced Select | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [MS-SQL Solution]() | 20 |
+| Advanced Select | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [MS-SQL Solution]() | 30 |
+| Advanced Select | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [MS-SQL Solution]() | 30 |
 
 
 
