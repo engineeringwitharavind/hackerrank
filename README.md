@@ -24,6 +24,7 @@ Currently This Repository Contains SQL and Python(in-progress)
 | Basic Select | [Weather Observation Staion 9](https://www.hackerrank.com/challenges/weather-observation-station-9) | [MS-SQL Solution]() | 10 |
 | Basic Select | [Weather Observation Staion 10](https://www.hackerrank.com/challenges/weather-observation-station-10) | [MS-SQL Solution]() | 10 |
 | Basic Select | [Weather Observation Staion 11](https://www.hackerrank.com/challenges/weather-observation-station-11) | [MS-SQL Solution]() | 15 |
+
 | Basic Select | [Weather Observation Staion 12](https://www.hackerrank.com/challenges/weather-observation-station-12) | [MS-SQL Solution]() | 15 |
 | Basic Select | [Higher than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks) | [MS-SQL Solution]() | 15 |
 | Basic Select | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees) | [MS-SQL Solution]() | 10 |
@@ -44,6 +45,10 @@ Currently This Repository Contains SQL and Python(in-progress)
 | Aggregation | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13) | [MS-SQL Solution]() | 10 |
 | Aggregation | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14) | [MS-SQL Solution]() | 10 |
 | Aggregation | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15) | [MS-SQL Solution]() | 15 |
+| Aggregation | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16) | [MS-SQL Solution]() | 10 |
+| Aggregation | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17) | [MS-SQL Solution]() | 15 |
+| Aggregation | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18) | [MS-SQL Solution]() | 25 |
+
 
 
 
