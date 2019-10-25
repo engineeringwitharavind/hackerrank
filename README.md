@@ -6,6 +6,15 @@ Currently This Repository Contains SQL and Python(in-progress)
 
 ### SQL HackerRank Practice Solutions:
 
+#### Please Note:
+- If you want to learn or brush up SQL Basics you can learn from Here --> [SQL-Exercises-With-Solutions](https://github.com/aravind-alpha/SQL-Exercises-With-Solutions) repository.
+
+#### Further Learning:
+After Completing these Exercises Try to solve Problems on
+- Mode Analytics [Here.](https://mode.com/)
+- LeetCode [Here.](https://leetcode.com/problemset/database/)
+- Hacker-Rank [Here.](https://www.hackerrank.com/domains/sql)
+
 | **Sub-Topic** | **Challenge** | **Solution** | **Score** |
 | ------------- | ------------- | ------------ | --------- |
 | Basic Select | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query) | [MS-SQL Solution]() | 10 |
@@ -61,9 +70,18 @@ Currently This Repository Contains SQL and Python(in-progress)
 | Advanced Select | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [MS-SQL Solution]() | 30 |
 | Advanced Select | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [MS-SQL Solution]() | 30 |
 
+## Downloading the Exercises
+To get started, you can start by either downloading a zip file of these assignments by clicking on the Clone or download button. If you have git installed on your system, you can clone this repository using :
 
+> clone https://github.com/aravind-alpha/Hackerrank-Practice-Solutions
 
+## Acknowledgement:
+My Solutions for Exercises may not be very optimal for you. Use it Just for Reference and Practice on your Own.
 
+## Contact
+You can reach me anytime through email **s.aravindviews@gmail.com** and I will respond within a day.We can collab and learn more.
+
+Good Luck :thumbsup:
 
 
 
