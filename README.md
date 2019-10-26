@@ -10,10 +10,8 @@ Currently This Repository Contains SQL and Python(in-progress)
 - If you want to learn or brush up SQL Basics you can learn from Here --> [SQL-Exercises-With-Solutions](https://github.com/aravind-alpha/SQL-Exercises-With-Solutions) repository.
 
 #### Further Learning:
-After Completing these Exercises Try to solve Problems on
+After Completing these Exercises Try to Practice
 - Mode Analytics [Here.](https://mode.com/)
-- LeetCode [Here.](https://leetcode.com/problemset/database/)
-- Hacker-Rank [Here.](https://www.hackerrank.com/domains/sql)
 
 | **Sub-Topic** | **Challenge** | **Solution** | **Score** |
 | ------------- | ------------- | ------------ | --------- |
