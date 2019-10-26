@@ -9,9 +9,7 @@ Currently This Repository Contains SQL and Python(in-progress)
 #### Please Note:
 - If you want to learn or brush up SQL Basics you can learn from Here --> [SQL-Exercises-With-Solutions](https://github.com/aravind-alpha/SQL-Exercises-With-Solutions) repository.
 
-#### Further Learning:
-After Completing these Exercises Try to Practice
-- Mode Analytics [Here.](https://mode.com/)
+
 
 | **Sub-Topic** | **Challenge** | **Solution** | **Score** |
 | ------------- | ------------- | ------------ | --------- |
@@ -72,6 +70,10 @@ After Completing these Exercises Try to Practice
 To get started, you can start by either downloading a zip file of these assignments by clicking on the Clone or download button. If you have git installed on your system, you can clone this repository using :
 
 > clone https://github.com/aravind-alpha/Hackerrank-Practice-Solutions
+
+#### Further Learning:
+After Completing these Exercises Try to Practice
+- Mode Analytics [Here.](https://mode.com/)
 
 ## Acknowledgement:
 My Solutions for Exercises may not be very optimal for you. Use it Just for Reference and Practice on your Own.
