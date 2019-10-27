@@ -75,9 +75,6 @@ To get started, you can start by either downloading a zip file of these assignme
 After Completing these Exercises Try to Practice
 - Mode Analytics [Here.](https://mode.com/)
 
-## Acknowledgement:
-My Solutions for Exercises may not be very optimal for you. Use it Just for Reference and Practice on your Own.
-
 ## Contact
 You can reach me anytime through email **s.aravindviews@gmail.com** and I will respond within a day.We can collab and learn more.
 
