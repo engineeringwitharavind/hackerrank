@@ -61,7 +61,6 @@ Currently This Repository Contains 30 Days of Code(in-progress) and SQL Complete
 | Basic Select | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes) | [MS-SQL Solution]() | 10 |
 | Basic Select | [Japanese Cities' Name ](https://www.hackerrank.com/challenges/japanese-cities-name) | [MS-SQL Solution]() | 10 |
 | Basic Select | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1) | [MS-SQL Solution]() | 15 |
-| Aggregation | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2) | [MS-SQL Solution]() | 15 |
 | Basic Select | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3) | [MS-SQL Solution]() | 10 |
 | Basic Select | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4) | [MS-SQL Solution]() | 10 |
 | Basic Select | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5) | [MYSQL Solution]() | 30 |
@@ -72,21 +71,14 @@ Currently This Repository Contains 30 Days of Code(in-progress) and SQL Complete
 | Basic Select | [Weather Observation Staion 10](https://www.hackerrank.com/challenges/weather-observation-station-10) | [MS-SQL Solution]() | 10 |
 | Basic Select | [Weather Observation Staion 11](https://www.hackerrank.com/challenges/weather-observation-station-11) | [MS-SQL Solution]() | 15 |
 | Basic Select | [Weather Observation Staion 12](https://www.hackerrank.com/challenges/weather-observation-station-12) | [MS-SQL Solution]() | 15 |
-| Aggregation | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13) | [MS-SQL Solution]() | 10 |
-| Aggregation | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14) | [MS-SQL Solution]() | 10 |
-| Aggregation | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15) | [MS-SQL Solution]() | 15 |
-| Aggregation | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16) | [MS-SQL Solution]() | 10 |
-| Aggregation | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17) | [MS-SQL Solution]() | 15 |
-| Aggregation | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18) | [MS-SQL Solution]() | 25 |
-| Aggregation | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19) | [MS-SQL Solution]() | 30 |
-| Aggregation | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20) | [MS-SQL Solution]() | 40 |
 | Basic Select | [Higher than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks) | [MS-SQL Solution]() | 15 |
 | Basic Select | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees) | [MS-SQL Solution]() | 10 |
 | Basic Select | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees) | [MS-SQL Solution]() | 10 |
-| Basic Join | [Asian Population](https://www.hackerrank.com/challenges/asian-population) | [MS-SQL Solution]() | 10 |
-| Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-cities) | [MS-SQL Solution]() | 10 |
-| Basic Join | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent) | [MS-SQL Solution]() | 10 |
-| Basic Join | [The Report](https://www.hackerrank.com/challenges/the-report) | [MS-SQL Solution]() | 20 |
+| Advanced Select | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [MS-SQL Solution]() | 20 |
+| Advanced Select | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [MS-SQL Solution]() | 30 |
+| Advanced Select | [Occupation](https://www.hackerrank.com/challenges/occupations/problem) | [MS-SQL Solution]() | 30 |
+| Advanced Select | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [MS-SQL Solution]() | 30 |
+| Advanced Select | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [MS-SQL Solution]() | 30 |
 | Aggregation | [Revising Aggregations-The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) | [MS-SQL Solution]() | 10 |
 | Aggregation | [Revising Aggregations-The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum) | [MS-SQL Solution]() | 10 |
 | Aggregation | [Revising Aggregations-Average](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function) | [MS-SQL Solution]() | 10 |
@@ -95,6 +87,7 @@ Currently This Repository Contains 30 Days of Code(in-progress) and SQL Complete
 | Aggregation | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference) | [MS-SQL Solution]() | 10 |
 | Aggregation | [The Blunder](https://www.hackerrank.com/challenges/the-blunder) | [MS-SQL Solution]() | 15 |
 | Aggregation | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees) | [MS-SQL Solution]() | 20 |
+| Aggregation | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2) | [MS-SQL Solution]() | 15 |
 | Aggregation | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13) | [MS-SQL Solution]() | 10 |
 | Aggregation | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14) | [MS-SQL Solution]() | 10 |
 | Aggregation | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15) | [MS-SQL Solution]() | 15 |
@@ -103,9 +96,24 @@ Currently This Repository Contains 30 Days of Code(in-progress) and SQL Complete
 | Aggregation | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18) | [MS-SQL Solution]() | 25 |
 | Aggregation | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19) | [MS-SQL Solution]() | 30 |
 | Aggregation | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20) | [MS-SQL Solution]() | 40 |
-| Advanced Select | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [MS-SQL Solution]() | 20 |
-| Advanced Select | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [MS-SQL Solution]() | 30 |
-| Advanced Select | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [MS-SQL Solution]() | 30 |
+| Basic Join | [Asian Population](https://www.hackerrank.com/challenges/asian-population) | [MS-SQL Solution]() | 10 |
+| Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-cities) | [MS-SQL Solution]() | 10 |
+| Basic Join | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent) | [MS-SQL Solution]() | 10 |
+| Basic Join | [The Report](https://www.hackerrank.com/challenges/the-report) | [MS-SQL Solution]() | 20 |
+| Basic Join | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [MS-SQL Solution]() | 30 |
+| Basic Join | [Olivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [MS-SQL Solution]() | 30 |
+| Basic Join | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [MS-SQL Solution]() | 30 |
+| Basic Join | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [MS-SQL Solution]() | 30 |
+| Advanced Join | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [MS-SQL Solution]() | 40 |
+| Advanced Join | [Placements](https://www.hackerrank.com/challenges/placements/problem) | [MS-SQL Solution]() | 40 |
+| Advanced Join | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) | [MS-SQL Solution]() | 40 |
+| Advanced Join | [Interviews](https://www.hackerrank.com/challenges/interviews/problem) | [MS-SQL Solution]() | 50 |
+| Advanced Join | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) | [MS-SQL Solution]() | 50 |
+| Alternative Queries | [Draw the Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [MS-SQL Solution]() | 25 |
+| Alternative Queries | [Draw the Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [MS-SQL Solution]() | 25 |
+| Alternative Queries | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | [MS-SQL Solution]() | 40 |
+
+
 
 ## Downloading the Exercises
 To get started, you can start by either downloading a zip file of these assignments by clicking on the Clone or download button. If you have git installed on your system, you can clone this repository using :
