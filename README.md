@@ -63,7 +63,7 @@ Currently This Repository Contains 30 Days of Code(in-progress) and SQL Complete
 | Basic Select | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1) | [MS-SQL Solution]() | 15 |
 | Basic Select | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3) | [MS-SQL Solution]() | 10 |
 | Basic Select | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4) | [MS-SQL Solution]() | 10 |
-| Basic Select | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5) | [MYSQL Solution]() | 30 |
+| Basic Select | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5) | [MySQL Solution]() | 30 |
 | Basic Select | [Weather Observation Staion 6](https://www.hackerrank.com/challenges/weather-observation-station-6) | [MS-SQL Solution]() | 10 |
 | Basic Select | [Weather Observation Staion 7](https://www.hackerrank.com/challenges/weather-observation-station-7) | [MS-SQL Solution]() | 10 |
 | Basic Select | [Weather Observation Staion 8](https://www.hackerrank.com/challenges/weather-observation-station-8) | [MS-SQL Solution]() | 15 |
@@ -85,7 +85,7 @@ Currently This Repository Contains 30 Days of Code(in-progress) and SQL Complete
 | Aggregation | [Average Population](https://www.hackerrank.com/challenges/average-population) | [MS-SQL Solution]() | 10 |
 | Aggregation | [Japan Population](https://www.hackerrank.com/challenges/japan-population) | [MS-SQL Solution]() | 10 |
 | Aggregation | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference) | [MS-SQL Solution]() | 10 |
-| Aggregation | [The Blunder](https://www.hackerrank.com/challenges/the-blunder) | [MS-SQL Solution]() | 15 |
+| Aggregation | [The Blunder](https://www.hackerrank.com/challenges/the-blunder) | [MySQL Solution]() | 15 |
 | Aggregation | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees) | [MS-SQL Solution]() | 20 |
 | Aggregation | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2) | [MS-SQL Solution]() | 15 |
 | Aggregation | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13) | [MS-SQL Solution]() | 10 |
