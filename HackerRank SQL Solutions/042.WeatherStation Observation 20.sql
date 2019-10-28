@@ -1,0 +1,8 @@
+SELECT CAST(AVG(LAT_N) AS DECIMAL(10,4)) 
+FROM STATION AS S 
+WHERE ((SELECT COUNT(*) 
+        FROM STATION 
+        WHERE LAT_N < S.LAT_N) - 
+       (SELECT COUNT(*) 
+        FROM STATION 
+        WHERE LAT_N > S.LAT_N)) IN (0,1,-1);
