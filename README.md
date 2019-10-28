@@ -49,7 +49,7 @@ Currently This Repository Contains 30 Days of Code(in-progress) and SQL Complete
 
 #### Please Note:
 - If you want to learn or brush up SQL Basics you can learn from Here --> [SQL-Exercises-With-Solutions](https://github.com/aravind-alpha/SQL-Exercises-With-Solutions) repository.
-
+- Most of the Solutions are written in MS-SQL and rarely two or three problems will be in MySQL or Oracle
 
 
 | **Sub-Topic** | **Challenge** | **Solution** | **Score** |
@@ -112,7 +112,6 @@ Currently This Repository Contains 30 Days of Code(in-progress) and SQL Complete
 | Alternative Queries | [Draw the Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [MS-SQL Solution]() | 25 |
 | Alternative Queries | [Draw the Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [MS-SQL Solution]() | 25 |
 | Alternative Queries | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | [MS-SQL Solution]() | 40 |
-
 
 
 ## Downloading the Exercises
