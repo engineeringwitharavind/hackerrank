@@ -53,16 +53,16 @@ Currently This Repository Contains 30 Days of Code(in-progress) and SQL Complete
 
 | **Sub-Topic** | **Challenge** | **Solution** | **Score** |
 | ------------- | ------------- | ------------ | --------- |
-| Basic Select | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query) | [MS-SQL Solution]() | 10 |
-| Basic Select | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2) | [MS-SQL Solution]() | 10 |
-| Basic Select | [Select All](https://www.hackerrank.com/challenges/select-all-sql) | [MS-SQL Solution]() | 10 |
-| Basic Select | [Select By ID](https://www.hackerrank.com/challenges/select-by-id) | [MS-SQL Solution]() | 10 |
-| Basic Select | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes) | [MS-SQL Solution]() | 10 |
-| Basic Select | [Japanese Cities' Name ](https://www.hackerrank.com/challenges/japanese-cities-name) | [MS-SQL Solution]() | 10 |
-| Basic Select | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1) | [MS-SQL Solution]() | 15 |
-| Basic Select | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3) | [MS-SQL Solution]() | 10 |
-| Basic Select | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4) | [MS-SQL Solution]() | 10 |
-| Basic Select | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5) | [MySQL Solution]() | 30 |
+| Basic Select | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/001.Revising%20the%20Select%20Query%20I.sql) | 10 |
+| Basic Select | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/002.Revising%20the%20Select%20Query%20II.sql) | 10 |
+| Basic Select | [Select All](https://www.hackerrank.com/challenges/select-all-sql) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/003.Select%20All.sql) | 10 |
+| Basic Select | [Select By ID](https://www.hackerrank.com/challenges/select-by-id) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/004.Select%20by%20ID.sql) | 10 |
+| Basic Select | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/005.Japan%20Cities'%20Attributes.sql) | 10 |
+| Basic Select | [Japanese Cities' Name ](https://www.hackerrank.com/challenges/japanese-cities-name) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/006.Japan%20Cities'%20Names.sql) | 10 |
+| Basic Select | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/007.WeatherStation%20Observation%201.sql) | 15 |
+| Basic Select | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/008.WeatherStation%20Observation%203.sql) | 10 |
+| Basic Select | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/009.WeatherStation%20Observation%204.sql) | 10 |
+| Basic Select | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5) | [MySQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/010.WeatherStation%20Observation%205.sql) | 30 |
 | Basic Select | [Weather Observation Staion 6](https://www.hackerrank.com/challenges/weather-observation-station-6) | [MS-SQL Solution]() | 10 |
 | Basic Select | [Weather Observation Staion 7](https://www.hackerrank.com/challenges/weather-observation-station-7) | [MS-SQL Solution]() | 10 |
 | Basic Select | [Weather Observation Staion 8](https://www.hackerrank.com/challenges/weather-observation-station-8) | [MS-SQL Solution]() | 15 |
