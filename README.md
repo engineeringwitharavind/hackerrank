@@ -95,22 +95,22 @@ Currently This Repository Contains 30 Days of Code(in-progress) and SQL Complete
 | Aggregation | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/040.WeatherStation%20Observation%2018.sql) | 25 |
 | Aggregation | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/041.WeatherStation%20Observation%2019.sql) | 30 |
 | Aggregation | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/042.WeatherStation%20Observation%2020.sql) | 40 |
-| Basic Join | [Asian Population](https://www.hackerrank.com/challenges/asian-population) | [MS-SQL Solution]() | 10 |
-| Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-cities) | [MS-SQL Solution]() | 10 |
-| Basic Join | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent) | [MySQL Solution]() | 10 |
-| Basic Join | [The Report](https://www.hackerrank.com/challenges/the-report) | [MySQL Solution]() | 20 |
-| Basic Join | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [MS-SQL Solution]() | 30 |
-| Basic Join | [Olivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [MS-SQL Solution]() | 30 |
-| Basic Join | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [MS-SQL Solution]() | 30 |
-| Basic Join | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [MS-SQL Solution]() | 30 |
-| Advanced Join | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [MS-SQL Solution]() | 40 |
-| Advanced Join | [Placements](https://www.hackerrank.com/challenges/placements/problem) | [MySQL Solution]() | 40 |
-| Advanced Join | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) | [MS-SQL Solution]() | 40 |
-| Advanced Join | [Interviews](https://www.hackerrank.com/challenges/interviews/problem) | [MS-SQL Solution]() | 50 |
-| Advanced Join | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) | [MS-SQL Solution]() | 50 |
-| Alternative Queries | [Draw the Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [MySQL Solution]() | 25 |
-| Alternative Queries | [Draw the Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [MySQL Solution]() | 25 |
-| Alternative Queries | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | [MS-SQL Solution]() | 40 |
+| Basic Join | [Asian Population](https://www.hackerrank.com/challenges/asian-population) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/043.Asian%20Population.sql) | 10 |
+| Basic Join | [African Cities](https://www.hackerrank.com/challenges/african-cities) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/044.African%20Cities.sql) | 10 |
+| Basic Join | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent) | [MySQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/045.Average%20Population%20of%20Each%20Continent.sql) | 10 |
+| Basic Join | [The Report](https://www.hackerrank.com/challenges/the-report) | [MySQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/046.The%20Report.sql) | 20 |
+| Basic Join | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/047.Top%20Competitors.sql) | 30 |
+| Basic Join | [Olivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/048.Ollivander's%20Inventory.sql) | 30 |
+| Basic Join | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/049.Challenges.sql) | 30 |
+| Basic Join | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/050.Contest%20Leaderboard.sql) | 30 |
+| Advanced Join | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/051.SQL%20Project%20Planning.sql) | 40 |
+| Advanced Join | [Placements](https://www.hackerrank.com/challenges/placements/problem) | [MySQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/052.Placements.sql) | 40 |
+| Advanced Join | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/053.Symmetric%20Pairs.sql) | 40 |
+| Advanced Join | [Interviews](https://www.hackerrank.com/challenges/interviews/problem) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/054.Interviews.sql) | 50 |
+| Advanced Join | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/055.15%20Days%20of%20Learning%20SQL.sql) | 50 |
+| Alternative Queries | [Draw the Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [MySQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/056.Draw%20the%20Triangle%201.sql) | 25 |
+| Alternative Queries | [Draw the Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [MySQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/057.Draw%20the%20Triangle%202.sql) | 25 |
+| Alternative Queries | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/058.Print%20Prime%20Numbers.sql) | 40 |
 
 
 ## Downloading the Exercises
@@ -127,7 +127,3 @@ After Completing these Exercises Try to Practice on
 You can reach me anytime through email **s.aravindviews@gmail.com** and I will respond within a day.We can collab and learn more.
 
 Good Luck :thumbsup:
-
-
-
-
