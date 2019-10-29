@@ -16,12 +16,12 @@ Currently This Repository Contains 30 Days of Code(in-progress) and SQL Complete
 
 | **Day** | **Challenge** | **Points** | **C Solution** | **Python Solution** |
 | ------- | ------------- | ---------- | -------------- | ---------------- |
-| 00 |  [Hello,World]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
-| 01 |  [Data Types]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
-| 02 |  [Operators]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
-| 03 |  [Intro to Conditional Statements]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
-| 04 |  [Class vs. Instance]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
-| 05 |  [Loops]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 00 |  [Hello,World]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/000.Hello%20World.py)  |
+| 01 |  [Data Types]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/001.Data%20Types.py)  |
+| 02 |  [Operators]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/002.Operators.py)  |
+| 03 |  [Intro to Conditional Statements]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/003.Intro%20to%20Conditional%20Statements.py)  |
+| 04 |  [Class vs. Instance]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/004.%20Class%20Vs%20Instance.py)  |
+| 05 |  [Loops]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/005.Loops.py)  |
 | 06 |  [Let's Review]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 07 |  [Arrays]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 08 |  [Dictionaries and Maps]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
