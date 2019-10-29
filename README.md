@@ -4,8 +4,8 @@ This Repository Contains Hackerrank Practice Solutions done by me which will be 
 
 Currently This Repository Contains 30 Days of Code(in-progress) and SQL Completely.
 
-- [30 Days of Code](30-days-of-code)
-- [SQL HackerRank Practice Solutions](sql-hackerrank-practice-solutions)
+- [30 Days of Code](#30-days-of-code)
+- [SQL HackerRank Practice Solutions](#sql-hackerrank-practice-solutions)
 
 ### 30 Days of Code:
 
