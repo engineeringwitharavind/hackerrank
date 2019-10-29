@@ -75,14 +75,14 @@ Currently This Repository Contains 30 Days of Code(in-progress) and SQL Complete
 | Basic Select | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/020.Employee%20Salaries.sql) | 10 |
 | Advanced Select | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/021.Type%20of%20Triangle.sql) | 20 |
 | Advanced Select | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/022.The%20PADS.sql) | 30 |
-| Advanced Select | [Occupation](https://www.hackerrank.com/challenges/occupations/problem) | [MS-SQL Solution]() | 30 |
-| Advanced Select | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [MS-SQL Solution]() | 30 |
-| Advanced Select | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [MS-SQL Solution]() | 30 |
-| Aggregation | [Revising Aggregations-The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) | [MS-SQL Solution]() | 10 |
-| Aggregation | [Revising Aggregations-The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum) | [MS-SQL Solution]() | 10 |
-| Aggregation | [Revising Aggregations-Average](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function) | [MS-SQL Solution]() | 10 |
-| Aggregation | [Average Population](https://www.hackerrank.com/challenges/average-population) | [MS-SQL Solution]() | 10 |
-| Aggregation | [Japan Population](https://www.hackerrank.com/challenges/japan-population) | [MS-SQL Solution]() | 10 |
+| Advanced Select | [Occupation](https://www.hackerrank.com/challenges/occupations/problem) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/023.Occupations.sql) | 30 |
+| Advanced Select | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/024.Binary%20Tree%20Nodes.sql) | 30 |
+| Advanced Select | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/025.New%20Companies.sql) | 30 |
+| Aggregation | [Revising Aggregations-The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/026.Revising%20Aggregations-The%20Count%20Function.sql) | 10 |
+| Aggregation | [Revising Aggregations-The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/027.Revising%20Aggregations-The%20SUM%20Function.sql) | 10 |
+| Aggregation | [Revising Aggregations-Average](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/028.Revising%20Aggregations-Averages.sql) | 10 |
+| Aggregation | [Average Population](https://www.hackerrank.com/challenges/average-population) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/029.Average%20Population.sql) | 10 |
+| Aggregation | [Japan Population](https://www.hackerrank.com/challenges/japan-population) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/030.Japan%20Population.sql) | 10 |
 | Aggregation | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference) | [MS-SQL Solution]() | 10 |
 | Aggregation | [The Blunder](https://www.hackerrank.com/challenges/the-blunder) | [MySQL Solution]() | 15 |
 | Aggregation | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees) | [MS-SQL Solution]() | 20 |
