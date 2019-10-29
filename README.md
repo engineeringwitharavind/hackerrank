@@ -15,7 +15,7 @@ Currently This Repository Contains 30 Days of Code(in-progress) and SQL Complete
 
 
 | **Day** | **Challenge** | **Points** | **C Solution** | **Python Solution** |
-| ------- | ------------- | ---------- | -------------- | ---------------- | ------------------- |
+| ------- | ------------- | ---------- | -------------- | ---------------- |
 | 00 |  [Hello,World]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 01 |  [Data Types]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 02 |  [Operators]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
