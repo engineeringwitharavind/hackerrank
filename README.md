@@ -1,48 +1,51 @@
 ![Hackerrank Logo](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/hackerrank%20logo.png)
 
-This Repository Contains Hackerrank Practice Solutions done by me For 30 Days of Code (Done in C, C++, Python) and SQL which will be eventually updated to further Topics from HackerRank.
+This Repository Contains Hackerrank Practice Solutions done by me which will be eventually updated frequently.
 
 Currently This Repository Contains 30 Days of Code(in-progress) and SQL Completely.
+
+- [30 Days of Code](30-days-of-code)
+- [SQL HackerRank Practice Solutions](sql-hackerrank-practice-solutions)
 
 ### 30 Days of Code:
 
 #### Please Note: 
-- I am solving these 30 Days of Code Problems with **C, C++ and Python**. If you are Comfortable coding with any other languages you can   add up to this repository if you want to.
+- I am solving these 30 Days of Code Problems with **C and Python** Language. If you are Comfortable coding with any other languages you   can add up to this repository if you wish to. 
 - I came across this [nice post.](https://medium.com/startup-grind/30-days-of-coding-56f4e6c72aa2) which will make you not to give up if   you want to learn.
 
 
-| **Day** | **Challenge** | **Points** | **C Solution** | **C++ Solution** | **Python Solution** |
+| **Day** | **Challenge** | **Points** | **C Solution** | **Python Solution** |
 | ------- | ------------- | ---------- | -------------- | ---------------- | ------------------- |
-| 00 |  [Hello,World]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 01 |  [Data Types]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 02 |  [Operators]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 03 |  [Intro to Conditional Statements]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 04 |  [Class vs. Instance]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 05 |  [Loops]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 06 |  [Let's Review]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 07 |  [Arrays]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 08 |  [Dictionaries and Maps]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 09 |  [Recursion]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 10 |  [Binary Numbers]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 11 |  [2D Arrays]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 12 |  [Inheritance]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 13 |  [Abstract Classes]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 14 |  [Scope]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 15 |  [Linked List]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 16 |  [Exceptions- String to Integer]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 17 |  [More Exceptions]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 18 |  [Queues and Stacks]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 19 |  [Interfaces]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 20 |  [Sorting]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 21 |  [Generics]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 22 |  [Binary Search Tree]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 23 |  [BST Level-Order Traversal]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 24 |  [More Linked Lists]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 25 |  [Running Time and Complexity]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 26 |  [Nested Logic]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 27 |  [Testing]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 28 |  [RegEx,Patterns and Intro to Databases]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
-| 29 |  [Bitwise AND]()  | 30 |  [Solution.c]()  |  [Solution.cpp]()  |  [Solution.py]()  |
+| 00 |  [Hello,World]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 01 |  [Data Types]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 02 |  [Operators]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 03 |  [Intro to Conditional Statements]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 04 |  [Class vs. Instance]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 05 |  [Loops]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 06 |  [Let's Review]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 07 |  [Arrays]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 08 |  [Dictionaries and Maps]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 09 |  [Recursion]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 10 |  [Binary Numbers]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 11 |  [2D Arrays]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 12 |  [Inheritance]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 13 |  [Abstract Classes]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 14 |  [Scope]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 15 |  [Linked List]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 16 |  [Exceptions- String to Integer]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 17 |  [More Exceptions]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 18 |  [Queues and Stacks]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 19 |  [Interfaces]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 20 |  [Sorting]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 21 |  [Generics]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 22 |  [Binary Search Tree]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 23 |  [BST Level-Order Traversal]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 24 |  [More Linked Lists]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 25 |  [Running Time and Complexity]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 26 |  [Nested Logic]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 27 |  [Testing]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 28 |  [RegEx,Patterns and Intro to Databases]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 29 |  [Bitwise AND]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 
 
 ### SQL HackerRank Practice Solutions:
