@@ -1,9 +1,12 @@
-SELECT CONCAT(NAME, 
-              CASE WHEN occupation = "Professor" THEN "(P)"
+SELECT CONCAT(
+              NAME, 
+              CASE 
+                   WHEN occupation = "Professor" THEN "(P)"
                    WHEN occupation = "Actor" THEN "(A)" 
                    WHEN occupation = "Doctor" THEN "(D)" 
                    WHEN occupation = "Singer" THEN "(S)" 
-              END )
+              END 
+             )
 FROM OCCUPATIONS 
 ORDER BY NAME; 
 
