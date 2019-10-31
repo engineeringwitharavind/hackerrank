@@ -23,8 +23,8 @@ Currently This Repository Contains 30 Days of Code(in-progress) and SQL Complete
 | 03 |  [Intro to Conditional Statements]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/003.Intro%20to%20Conditional%20Statements.py)  |
 | 04 |  [Class vs. Instance]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/004.%20Class%20Vs%20Instance.py)  |
 | 05 |  [Loops]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/005.Loops.py)  |
-| 06 |  [Let's Review]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
-| 07 |  [Arrays]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 06 |  [Let's Review]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/006.%20Let's%20Review.py)  |
+| 07 |  [Arrays]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/007.Arrays.py)  |
 | 08 |  [Dictionaries and Maps]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 09 |  [Recursion]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 10 |  [Binary Numbers]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
