@@ -2,7 +2,7 @@
 
 This Repository Contains Hackerrank Practice Solutions done by me which will be eventually updated frequently.
 
-Currently This Repository Contains 30 Days of Code(in-progress) and SQL Completely.
+Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and SQL Completely.
 
 - [30 Days of Code](#30-days-of-code)
 - [C Language HackerRank Practice Solutions](#c-language-hackerrank-practice-solutions)
