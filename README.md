@@ -53,10 +53,10 @@ Currently This Repository Contains 30 Days of Code(in-progress) and SQL Complete
 
 | **Sub-Topic** | **Challenge** | **Solution** | **Score** |
 | ------------- | ------------- | ------------ | --------- |
-| Introduction | [Hello,World!](https://www.hackerrank.com/challenges/hello-world-c) | [Solution]() | 5 |
-| Introduction | [Playing with Characters](https://www.hackerrank.com/challenges/playing-with-characters) | [Solution]() | 5 |
+| Introduction | [Hello,World!](https://www.hackerrank.com/challenges/hello-world-c) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/001.%20Hello%2CWorld!.c) | 5 |
+| Introduction | [Playing with Characters](https://www.hackerrank.com/challenges/playing-with-characters) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/002.%20Playing%20with%20Characters.c) | 5 |
 | Introduction | [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c) | [Solution]() | 5 |
-| Introduction | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c) | [Solution]() | 10 |
+| Introduction | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/003.%20Funtions%20in%20C.c) | 10 |
 | Introduction | [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c) | [Solution]() | 10 |
 | Conditionals and Loops | [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c) | [Solution]() | 10 |
 | Conditionals and Loops | [For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c) | [Solution]() | 10 |
