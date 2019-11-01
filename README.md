@@ -63,7 +63,7 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 | Conditionals and Loops | [Sum of Digits of Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number) | [Solution]() | 15 |
 | Conditionals and Loops | [Bitwise Operators](https://www.hackerrank.com/challenges/bitwise-operators-in-c) | [Solution]() | 15 |
 | Conditionals and Loops | [Printing Pattern using Loops](https://www.hackerrank.com/challenges/printing-pattern-2) | [Solution]() | 30 |
-| Arrays and Strings | [1D Arrays in C](https://www.hackerrank.com/challenges/1d-arrays-in-c) | [Solution]() | 10 |
+| Arrays and Strings | [1D Arrays in C](https://www.hackerrank.com/challenges/1d-arrays-in-c) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/006.%201D%20Arrays%20in%20C.c) | 10 |
 | Arrays and Strings | [Array Reversal](https://www.hackerrank.com/challenges/reverse-array-c) | [Solution]() | 20 |
 | Arrays and Strings | [Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-) | [Solution]() | 20 |
 | Arrays and Strings | [Digit Frequency](https://www.hackerrank.com/challenges/frequency-of-digits-1) | [Solution]() | 25 |
