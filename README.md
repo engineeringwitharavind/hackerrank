@@ -17,19 +17,19 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 
 | **Day** | **Challenge** | **Points** | **C Solution** | **Python Solution** |
 | ------- | ------------- | ---------- | -------------- | ---------------- |
-| 00 |  [Hello,World]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/000.Hello%20World.py)  |
-| 01 |  [Data Types]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/001.Data%20Types.py)  |
-| 02 |  [Operators]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/002.Operators.py)  |
-| 03 |  [Intro to Conditional Statements]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/003.Intro%20to%20Conditional%20Statements.py)  |
+| 00 |  [Hello,World]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/000.%20Hello%20World.py)  |
+| 01 |  [Data Types]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/001.%20Data%20Types.py)  |
+| 02 |  [Operators]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/002.%20Operators.py)  |
+| 03 |  [Intro to Conditional Statements]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/003.%20Intro%20to%20Conditional%20Statements.py)  |
 | 04 |  [Class vs. Instance]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/004.%20Class%20Vs%20Instance.py)  |
-| 05 |  [Loops]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/005.Loops.py)  |
+| 05 |  [Loops]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/005.%20Loops.py)  |
 | 06 |  [Let's Review]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/006.%20Let's%20Review.py)  |
-| 07 |  [Arrays]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/007.Arrays.py)  |
+| 07 |  [Arrays]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/007.%20Arrays.py)  |
 | 08 |  [Dictionaries and Maps]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/008.%20Dictionaries%20and%20Maps.py)  |
 | 09 |  [Recursion]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/009.%20Recursion%203.py)  |
 | 10 |  [Binary Numbers]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/010.%20Binary%20Numbers.py)  |
-| 11 |  [2D Arrays]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
-| 12 |  [Inheritance]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 11 |  [2D Arrays]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/011.%202D%20Arrays.py)  |
+| 12 |  [Inheritance]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/012.%20Inheritance.py)  |
 | 13 |  [Abstract Classes]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 14 |  [Scope]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 15 |  [Linked List]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
