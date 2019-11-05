@@ -27,7 +27,7 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 | 07 |  [Arrays]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/007.Arrays.py)  |
 | 08 |  [Dictionaries and Maps]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/008.%20Dictionaries%20and%20Maps.py)  |
 | 09 |  [Recursion]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/009.%20Recursion%203.py)  |
-| 10 |  [Binary Numbers]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 10 |  [Binary Numbers]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/010.%20Binary%20Numbers.py)  |
 | 11 |  [2D Arrays]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 12 |  [Inheritance]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 13 |  [Abstract Classes]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
