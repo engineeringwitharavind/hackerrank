@@ -32,8 +32,8 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 | 12 |  [Inheritance]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/012.%20Inheritance.py)  |
 | 13 |  [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/013.%20Abstract%20Class.py)  |
 | 14 |  [Scope](https://www.hackerrank.com/challenges/30-scope)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
-| 15 |  [Linked List]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
-| 16 |  [Exceptions- String to Integer]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 15 |  [Linked List](https://www.hackerrank.com/challenges/30-linked-list)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 16 |  [Exceptions- String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 17 |  [More Exceptions]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 18 |  [Queues and Stacks]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 19 |  [Interfaces]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
