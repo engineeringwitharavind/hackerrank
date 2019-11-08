@@ -36,7 +36,7 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 | 16 |  [Exceptions- String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 17 |  [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 18 |  [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
-| 19 |  [Interfaces]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 19 |  [Interfaces](https://www.hackerrank.com/challenges/30-interfaces)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 20 |  [Sorting]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 21 |  [Generics]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 22 |  [Binary Search Tree]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
