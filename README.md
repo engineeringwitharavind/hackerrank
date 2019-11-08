@@ -17,7 +17,7 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 
 | **Day** | **Challenge** | **Points** | **C Solution** | **Python Solution** |
 | ------- | ------------- | ---------- | -------------- | ---------------- |
-| 00 |  [Hello,World](https://www.hackerrank.com/challenges/30-hello-world)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/000.%20Hello%20World.py)  |
+| 00 |  [Hello,World](https://www.hackerrank.com/challenges/30-hello-world)  | 30 |  [Solution.c](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/000.%20Hello%20World.c)  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/000.%20Hello%20World.py)  |
 | 01 |  [Data Types](https://www.hackerrank.com/challenges/30-data-types)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/001.%20Data%20Types.py)  |
 | 02 |  [Operators](https://www.hackerrank.com/challenges/30-operators)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/002.%20Operators.py)  |
 | 03 |  [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/003.%20Intro%20to%20Conditional%20Statements.py)  |
