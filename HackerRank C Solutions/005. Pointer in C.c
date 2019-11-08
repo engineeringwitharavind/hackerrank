@@ -2,10 +2,11 @@
 
 #include <stdio.h>
 
-void update(int *a,int *b) {
+void update(int *a,int *b) 
+{
     // Complete this function
     *a = *a + *b;
-    *b = abs(*a - (2**b));
+    *b = abs(*a - (2**b)); 
 }
 
 int main() {
