@@ -38,7 +38,7 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 | 18 |  [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 19 |  [Interfaces](https://www.hackerrank.com/challenges/30-interfaces)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 20 |  [Sorting](https://www.hackerrank.com/challenges/30-sorting)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
-| 21 |  [Generics]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 21 |  [Generics](https://www.hackerrank.com/challenges/30-generics)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 22 |  [Binary Search Tree]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 23 |  [BST Level-Order Traversal]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 24 |  [More Linked Lists]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
