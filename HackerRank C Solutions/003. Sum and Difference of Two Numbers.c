@@ -1,3 +1,5 @@
+/* Sum and Difference of Two Numbers in C */
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
@@ -5,9 +7,10 @@
 
 int main()
 {
-    int i, j;
-    float f, g;
-    scanf("%d %d %f %f", &i, &j, &f, &g);
-    printf("%d %d\n%.1f %.1f", i+j, i-j, f+g, f-g);
+    int i,j;
+    float n,m;
+    scanf("%d %d %f %f\n", &i, &j, &n, &m);
+    printf("%d %d\n%.1f %.1f\n", i+j, i-j, n+m, n-m);
+
     return 0;
 }
