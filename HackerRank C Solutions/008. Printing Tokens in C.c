@@ -12,7 +12,8 @@ int main() {
     scanf("%[^\n]", s);
     s = realloc(s, strlen(s) + 1);
     //Write your logic to print the tokens of the sentence here.
-    for(char *c = s; *c != NULL; c++){
+    for(char *c = s; *c != NULL; c++)
+    {
         if(*c == ' ')
         {
             *c = '\n';
