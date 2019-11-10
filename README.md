@@ -34,7 +34,7 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 | 14 |  [Scope](https://www.hackerrank.com/challenges/30-scope)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/014.%20Scope.py)  |
 | 15 |  [Linked List](https://www.hackerrank.com/challenges/30-linked-list)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/015.%20Linked%20List.py)  |
 | 16 |  [Exceptions- String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/016.%20Exceptions.py)  |
-| 17 |  [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 17 |  [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/017.%20More%20Exceptions.py)  |
 | 18 |  [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 19 |  [Interfaces](https://www.hackerrank.com/challenges/30-interfaces)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 20 |  [Sorting](https://www.hackerrank.com/challenges/30-sorting)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
