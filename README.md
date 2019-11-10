@@ -67,7 +67,7 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 | Arrays and Strings | [Array Reversal](https://www.hackerrank.com/challenges/reverse-array-c) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/007.%20Array%20Reversal%20in%20C.c) | 20 |
 | Arrays and Strings | [Printing Tokens](https://www.hackerrank.com/challenges/printing-tokens-) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/008.%20Printing%20Tokens%20in%20C.c) | 20 |
 | Arrays and Strings | [Digit Frequency](https://www.hackerrank.com/challenges/frequency-of-digits-1) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/009.%20Digit%20Frequency%20in%20C.c) | 25 |
-| Arrays and Strings | [Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c) | [Solution]() | 40 |
+| Arrays and Strings | [Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/010.%20Dynamic%20Array%20in%20C.c) | 40 |
 | Functions | [Calculate the Nth Term](https://www.hackerrank.com/challenges/recursion-in-c) | [Solution]() | 15 |
 | Functions | [Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum) | [Solution]() | 20 |
 | Functions | [Sorting Array of Strings](https://www.hackerrank.com/challenges/sorting-array-of-strings) | [Solution]() | 40 |
