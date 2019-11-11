@@ -1,3 +1,4 @@
+/* REvising the Select Query-I */
 SELECT *
 FROM CITY
 WHERE
