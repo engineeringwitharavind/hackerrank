@@ -44,7 +44,7 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 | 24 |  [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 25 |  [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 26 |  [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
-| 27 |  [Testing]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 27 |  [Testing](https://www.hackerrank.com/challenges/30-testing)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 28 |  [RegEx,Patterns and Intro to Databases]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 29 |  [Bitwise AND]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 
