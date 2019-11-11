@@ -58,7 +58,7 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 | Introduction | [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/003.%20Sum%20and%20Difference%20of%20Two%20Numbers.c) | 5 |
 | Introduction | [Functions in C](https://www.hackerrank.com/challenges/functions-in-c) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/003.%20Funtions%20in%20C.c) | 10 |
 | Introduction | [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/005.%20Pointer%20in%20C.c) | 10 |
-| Conditionals and Loops | [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c) | [Solution]() | 10 |
+| Conditionals and Loops | [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/006.%20Conditional%20Statements%20in%20C.c) | 10 |
 | Conditionals and Loops | [For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c) | [Solution]() | 10 |
 | Conditionals and Loops | [Sum of Digits of Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number) | [Solution]() | 15 |
 | Conditionals and Loops | [Bitwise Operators](https://www.hackerrank.com/challenges/bitwise-operators-in-c) | [Solution]() | 15 |
