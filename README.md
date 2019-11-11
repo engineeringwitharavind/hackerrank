@@ -46,7 +46,7 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 | 26 |  [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 27 |  [Testing](https://www.hackerrank.com/challenges/30-testing)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 28 |  [RegEx,Patterns and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
-| 29 |  [Bitwise AND]()  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 29 |  [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 
 
 ### C Language HackerRank Practice Solutions:
