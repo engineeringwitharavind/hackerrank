@@ -1,9 +1,9 @@
-/* Interfaces in Python */
+# Interfaces in Python 
 class AdvancedArithmetic(object):
     def divisorSum(n):
         raise NotImplementedError
 
-/* Complete the below function */
+# Complete the below function 
 class Calculator(AdvancedArithmetic):
     def divisorSum(self, n):
         divisor_sum = 0
