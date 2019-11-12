@@ -36,7 +36,7 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 | 16 |  [Exceptions- String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/016.%20Exceptions.py)  |
 | 17 |  [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/017.%20More%20Exceptions.py)  |
 | 18 |  [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/018.%20Queues%20and%20Stacks.py)  |
-| 19 |  [Interfaces](https://www.hackerrank.com/challenges/30-interfaces)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 19 |  [Interfaces](https://www.hackerrank.com/challenges/30-interfaces)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/019.%20Interfaces.py)  |
 | 20 |  [Sorting](https://www.hackerrank.com/challenges/30-sorting)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 21 |  [Generics](https://www.hackerrank.com/challenges/30-generics)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
 | 22 |  [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
