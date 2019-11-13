@@ -69,7 +69,7 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 | Arrays and Strings | [Digit Frequency](https://www.hackerrank.com/challenges/frequency-of-digits-1) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/014.%20Digit%20Frequency%20in%20C.c) | 25 |
 | Arrays and Strings | [Dynamic Array in C](https://www.hackerrank.com/challenges/dynamic-array-in-c) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/015.%20Dynamic%20Array%20in%20C.c) | 40 |
 | Functions | [Calculate the Nth Term](https://www.hackerrank.com/challenges/recursion-in-c) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/016.%20Calculate%20the%20Nth%20term.c) | 15 |
-| Functions | [Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum) | [Solution]() | 20 |
+| Functions | [Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/017.%20Students%20Marks%20Sum.c) | 20 |
 | Functions | [Sorting Array of Strings](https://www.hackerrank.com/challenges/sorting-array-of-strings) | [Solution]() | 40 |
 | Functions | [Permutations of String](https://www.hackerrank.com/challenges/permutations-of-strings) | [Solution]() | 40 |
 | Functions | [Variadic Functions in C](https://www.hackerrank.com/challenges/variadic-functions-in-c) | [Solution]() | 50 |
