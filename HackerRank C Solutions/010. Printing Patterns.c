@@ -1,3 +1,5 @@
+/* Printing Patterns in C language */
+
 #include <stdio.h>
 
 int main() 
