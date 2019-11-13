@@ -1,4 +1,4 @@
-/* Printing Patterns in C language */
+/* Printing Patterns using loops in C */
 
 #include <stdio.h>
 
