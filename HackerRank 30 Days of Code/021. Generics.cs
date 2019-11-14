@@ -1,3 +1,6 @@
+/* Generics in C# */
+/* NOTE: Python is not allowed for this problem in HackerRank so, used C# instead of Python */
+
 using System;
 
 class Printer
