@@ -72,7 +72,7 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 | Functions | [Students Marks Sum](https://www.hackerrank.com/challenges/students-marks-sum) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/017.%20Students%20Marks%20Sum.c) | 20 |
 | Functions | [Sorting Array of Strings](https://www.hackerrank.com/challenges/sorting-array-of-strings) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/018.%20Sorting%20Array%20of%20Strings.c) | 40 |
 | Functions | [Permutations of String](https://www.hackerrank.com/challenges/permutations-of-strings) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/019.%20Permutations%20of%20Strings.c) | 40 |
-| Functions | [Variadic Functions in C](https://www.hackerrank.com/challenges/variadic-functions-in-c) | [Solution]() | 50 |
+| Functions | [Variadic Functions in C](https://www.hackerrank.com/challenges/variadic-functions-in-c) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/020.%20Variadic%20Functions%20in%20C.c) | 50 |
 | Functions | [Querying the Document](https://www.hackerrank.com/challenges/querying-the-document) | [Solution]() | 60 |
 | Structs and Enums | [Boxes through a Tunnel](https://www.hackerrank.com/challenges/too-high-boxes) | [Solution]() | 25 |
 | Structs and Enums | [Small Triangles,Large Triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles) | [Solution]() | 30 |
