@@ -17,36 +17,36 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 
 | **Day** | **Challenge** | **Points** | **C Solution** | **Python Solution** |
 | ------- | ------------- | ---------- | -------------- | ---------------- |
-| 00 |  [Hello,World](https://www.hackerrank.com/challenges/30-hello-world)  | 30 |  [Solution.c](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/000.%20Hello%20World.c)  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/000.%20Hello%20World.py)  |
-| 01 |  [Data Types](https://www.hackerrank.com/challenges/30-data-types)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/001.%20Data%20Types.py)  |
-| 02 |  [Operators](https://www.hackerrank.com/challenges/30-operators)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/002.%20Operators.py)  |
-| 03 |  [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/003.%20Intro%20to%20Conditional%20Statements.py)  |
-| 04 |  [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/004.%20Class%20Vs%20Instance.py)  |
-| 05 |  [Loops](https://www.hackerrank.com/challenges/30-loops)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/005.%20Loops.py)  |
-| 06 |  [Let's Review](https://www.hackerrank.com/challenges/30-review-loop)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/006.%20Let's%20Review.py)  |
-| 07 |  [Arrays](https://www.hackerrank.com/challenges/30-arrays)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/007.%20Arrays.py)  |
-| 08 |  [Dictionaries and Maps]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/008.%20Dictionaries%20and%20Maps.py)  |
-| 09 |  [Recursion]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/009.%20Recursion%203.py)  |
-| 10 |  [Binary Numbers]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/010.%20Binary%20Numbers.py)  |
-| 11 |  [2D Arrays]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/011.%202D%20Arrays.py)  |
-| 12 |  [Inheritance]()  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/012.%20Inheritance.py)  |
-| 13 |  [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/013.%20Abstract%20Class.py)  |
-| 14 |  [Scope](https://www.hackerrank.com/challenges/30-scope)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/014.%20Scope.py)  |
-| 15 |  [Linked List](https://www.hackerrank.com/challenges/30-linked-list)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/015.%20Linked%20List.py)  |
-| 16 |  [Exceptions- String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/016.%20Exceptions.py)  |
-| 17 |  [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/017.%20More%20Exceptions.py)  |
-| 18 |  [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/018.%20Queues%20and%20Stacks.py)  |
-| 19 |  [Interfaces](https://www.hackerrank.com/challenges/30-interfaces)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/019.%20Interfaces.py)  |
-| 20 |  [Sorting](https://www.hackerrank.com/challenges/30-sorting)  | 30 |  [Solution.c]()  |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/020.%20Sorting.py)  |
-| 21 |  [Generics](https://www.hackerrank.com/challenges/30-generics)  | 30 |  [Solution.c]()  |  [Solution.cs](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/021.%20Generics.cs)  |
-| 22 |  [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
-| 23 |  [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
-| 24 |  [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
-| 25 |  [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
-| 26 |  [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
-| 27 |  [Testing](https://www.hackerrank.com/challenges/30-testing)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
-| 28 |  [RegEx,Patterns and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
-| 29 |  [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)  | 30 |  [Solution.c]()  |  [Solution.py]()  |
+| 00 |  [Hello,World](https://www.hackerrank.com/challenges/30-hello-world)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/000.%20Hello%20World.py)  |
+| 01 |  [Data Types](https://www.hackerrank.com/challenges/30-data-types)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/001.%20Data%20Types.py)  |
+| 02 |  [Operators](https://www.hackerrank.com/challenges/30-operators)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/002.%20Operators.py)  |
+| 03 |  [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/003.%20Intro%20to%20Conditional%20Statements.py)  |
+| 04 |  [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/004.%20Class%20Vs%20Instance.py)  |
+| 05 |  [Loops](https://www.hackerrank.com/challenges/30-loops)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/005.%20Loops.py)  |
+| 06 |  [Let's Review](https://www.hackerrank.com/challenges/30-review-loop)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/006.%20Let's%20Review.py)  |
+| 07 |  [Arrays](https://www.hackerrank.com/challenges/30-arrays)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/007.%20Arrays.py)  |
+| 08 |  [Dictionaries and Maps]()  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/008.%20Dictionaries%20and%20Maps.py)  |
+| 09 |  [Recursion]()  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/009.%20Recursion%203.py)  |
+| 10 |  [Binary Numbers]()  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/010.%20Binary%20Numbers.py)  |
+| 11 |  [2D Arrays]()  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/011.%202D%20Arrays.py)  |
+| 12 |  [Inheritance]()  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/012.%20Inheritance.py)  |
+| 13 |  [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/013.%20Abstract%20Class.py)  |
+| 14 |  [Scope](https://www.hackerrank.com/challenges/30-scope)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/014.%20Scope.py)  |
+| 15 |  [Linked List](https://www.hackerrank.com/challenges/30-linked-list)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/015.%20Linked%20List.py)  |
+| 16 |  [Exceptions- String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/016.%20Exceptions.py)  |
+| 17 |  [More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/017.%20More%20Exceptions.py)  |
+| 18 |  [Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/018.%20Queues%20and%20Stacks.py)  |
+| 19 |  [Interfaces](https://www.hackerrank.com/challenges/30-interfaces)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/019.%20Interfaces.py)  |
+| 20 |  [Sorting](https://www.hackerrank.com/challenges/30-sorting)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/020.%20Sorting.py)  |
+| 21 |  [Generics](https://www.hackerrank.com/challenges/30-generics)  | 30 |  [Solution.cs](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/021.%20Generics.cs)  |
+| 22 |  [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees)  | 30 |  [Solution.py]()  |
+| 23 |  [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees)  | 30 |  [Solution.py]()  |
+| 24 |  [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion)  | 30 |  [Solution.py]()  |
+| 25 |  [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity)  | 30 |  [Solution.py]()  |
+| 26 |  [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic)  | 30 |  [Solution.py]()  |
+| 27 |  [Testing](https://www.hackerrank.com/challenges/30-testing)  | 30 |  [Solution.py]()  |
+| 28 |  [RegEx,Patterns and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem)  | 30 |  [Solution.py]()  |
+| 29 |  [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)  | 30 |  [Solution.py]()  |
 
 
 ### C Language HackerRank Practice Solutions:
