@@ -15,8 +15,8 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 - I came across this [nice post.](https://medium.com/startup-grind/30-days-of-coding-56f4e6c72aa2) which will make you not to give up if   you want to learn.
 
 
-| **Day** | **Challenge** | **Points** | **C Solution** | **Python Solution** |
-| ------- | ------------- | ---------- | -------------- | ---------------- |
+| **Day** | **Challenge** | **Points** | **Python Solution** |
+| ------- | ------------- | ---------- | ---------------- |
 | 00 |  [Hello,World](https://www.hackerrank.com/challenges/30-hello-world)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/000.%20Hello%20World.py)  |
 | 01 |  [Data Types](https://www.hackerrank.com/challenges/30-data-types)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/001.%20Data%20Types.py)  |
 | 02 |  [Operators](https://www.hackerrank.com/challenges/30-operators)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/002.%20Operators.py)  |
