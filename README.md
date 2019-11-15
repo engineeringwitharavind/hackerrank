@@ -76,7 +76,7 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 | Functions | [Querying the Document](https://www.hackerrank.com/challenges/querying-the-document) | [Solution]() | 60 |
 | Structs and Enums | [Boxes through a Tunnel](https://www.hackerrank.com/challenges/too-high-boxes) | [Solution]() | 25 |
 | Structs and Enums | [Small Triangles,Large Triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles) | [Solution]() | 30 |
-| Structs and Enums | [Post Transition](https://www.hackerrank.com/challenges/post-transition) | [Solution]() | 50 |
+| Structs and Enums | [Post Transition](https://www.hackerrank.com/challenges/post-transition) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/022.%20Post%20Transition.c) | 50 |
 | Structs and Enums | [Structuring the Document](https://www.hackerrank.com/challenges/structuring-the-document) | [Solution]() | 60 |
 
 
