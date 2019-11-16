@@ -40,7 +40,7 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 | 20 |  [Sorting](https://www.hackerrank.com/challenges/30-sorting)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/020.%20Sorting.py)  |
 | 21 |  [Generics](https://www.hackerrank.com/challenges/30-generics)  | 30 |  [Solution.cs](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/021.%20Generics.cs)  |
 | 22 |  [Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/022.%20Binary%20Search%20Trees.py)  |
-| 23 |  [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees)  | 30 |  [Solution.py]()  |
+| 23 |  [BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/023.%20BST%20Level-Order%20Traversal.py)  |
 | 24 |  [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion)  | 30 |  [Solution.py]()  |
 | 25 |  [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity)  | 30 |  [Solution.py]()  |
 | 26 |  [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic)  | 30 |  [Solution.py]()  |
