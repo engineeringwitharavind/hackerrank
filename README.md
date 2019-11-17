@@ -75,7 +75,7 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 | Functions | [Variadic Functions in C](https://www.hackerrank.com/challenges/variadic-functions-in-c) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/020.%20Variadic%20Functions%20in%20C.c) | 50 |
 | Functions | [Querying the Document](https://www.hackerrank.com/challenges/querying-the-document) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/021.%20Querying%20the%20Document.c) | 60 |
 | Structs and Enums | [Boxes through a Tunnel](https://www.hackerrank.com/challenges/too-high-boxes) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/022.%20Boxes%20through%20a%20Tunnel.c) | 25 |
-| Structs and Enums | [Small Triangles,Large Triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles) | [Solution]() | 30 |
+| Structs and Enums | [Small Triangles,Large Triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/023.%20Small%20Triangles%2C%20Large%20Triangles.c) | 30 |
 | Structs and Enums | [Post Transition](https://www.hackerrank.com/challenges/post-transition) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/024.%20Post%20Transition.c) | 50 |
 | Structs and Enums | [Structuring the Document](https://www.hackerrank.com/challenges/structuring-the-document) | [Solution]() | 60 |
 
