@@ -1,3 +1,4 @@
+# More Linked Lists in Python
 class Node:
     def __init__(self,data):
         self.data = data
