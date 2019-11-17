@@ -148,7 +148,7 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 | Alternative Queries | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/058.Print%20Prime%20Numbers.sql) | 40 |
 
 
-## Downloading the Exercises
+## Downloading the Solutions
 To get started, you can start by either downloading a zip file of these assignments by clicking on the Clone or download button. If you have git installed on your system, you can clone this repository using :
 
 > clone https://github.com/aravind-alpha/Hackerrank-Practice-Solutions
