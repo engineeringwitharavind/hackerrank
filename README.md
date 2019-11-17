@@ -149,7 +149,7 @@ Currently This Repository Contains 30 Days of Code, C-Language(in-progress) and 
 
 
 ## Downloading the Solutions
-To get started, you can start by either downloading a zip file of these assignments by clicking on the Clone or download button. If you have git installed on your system, you can clone this repository using :
+To get started, you can start by either downloading a zip file of these Solutions by clicking on the Clone or download button. If you have git installed on your system, you can clone this repository using :
 
 > clone https://github.com/aravind-alpha/Hackerrank-Practice-Solutions
 
