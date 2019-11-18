@@ -7,6 +7,7 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 - [30 Days of Code](#30-days-of-code)
 - [C Language HackerRank Practice Solutions](#c-language-hackerrank-practice-solutions)
 - [Python HackerRank Practice Solutions](#python-hackerrank-practice-solutions)
+- [BASH HackerRank Practice Solutions](#bash-hackerrank-practice-solutions)
 - [SQL HackerRank Practice Solutions](#sql-hackerrank-practice-solutions)
 
 ### 30 Days of Code:
