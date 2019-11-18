@@ -1,3 +1,5 @@
+# Running Time and Complexity
+
 def find_prime(n):
     if n == 1:
         return 'Not prime'
