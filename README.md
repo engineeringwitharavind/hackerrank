@@ -2,7 +2,7 @@
 
 This Repository Contains Hackerrank Practice Solutions done by me which will be eventually updated frequently.
 
-Currently This Repository Contains 30 Days of Code, C Language and SQL Completely.
+Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and SQL Completely.
 
 - [30 Days of Code](#30-days-of-code)
 - [C Language HackerRank Practice Solutions](#c-language-hackerrank-practice-solutions)
@@ -78,6 +78,12 @@ Currently This Repository Contains 30 Days of Code, C Language and SQL Completel
 | Structs and Enums | [Small Triangles,Large Triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/023.%20Small%20Triangles%2C%20Large%20Triangles.c) | 30 |
 | Structs and Enums | [Post Transition](https://www.hackerrank.com/challenges/post-transition) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/024.%20Post%20Transition.c) | 50 |
 | Structs and Enums | [Structuring the Document](https://www.hackerrank.com/challenges/structuring-the-document) | [Solution]() | 60 |
+
+
+### Python HackerRank Practice Solutions:
+
+| **Sub-Topic** | **Challenge** | **Solution** | **Score** |
+| ------------- | ------------- | ------------ | --------- |
 
 
 ### SQL HackerRank Practice Solutions:
