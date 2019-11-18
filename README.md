@@ -87,6 +87,12 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 | ------------- | ------------- | ------------ | --------- |
 
 
+### BASH HackerRank Practice Solutions:
+
+| **Sub-Topic** | **Challenge** | **Solution** | **Score** |
+| ------------- | ------------- | ------------ | --------- |
+
+
 ### SQL HackerRank Practice Solutions:
 
 #### Please Note:
