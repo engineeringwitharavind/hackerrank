@@ -161,7 +161,4 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 | Alternative Queries | [Draw the Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [MySQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/057.Draw%20the%20Triangle%202.sql) | 25 |
 | Alternative Queries | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/058.Print%20Prime%20Numbers.sql) | 40 |
 
-
-## Downloading the Solutions
-
 Good Luck :thumbsup:
