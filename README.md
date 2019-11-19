@@ -167,12 +167,6 @@ To get started, you can start by either downloading a zip file of these Solution
 
 > clone https://github.com/aravind-alpha/Hackerrank-Practice-Solutions
 
-#### Further Learning:
-After Completing these Exercises Try to Practice on 
-- Mode Analytics [Here.](https://mode.com/)
-- LeetCode [Here.](https://leetcode.com)
-
 ## Contact
-You can reach me anytime through email **s.aravindviews@gmail.com** and I will respond within a day.We can collab and learn more.
 
 Good Luck :thumbsup:
