@@ -45,7 +45,7 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 | 24 |  [More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/024.%20More%20Linked%20Lists.py)  |
 | 25 |  [Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/025.%20Running%20Time%20and%20Complexity.py)  |
 | 26 |  [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/026.%20Nested%20Logic.py)  |
-| 27 |  [Testing](https://www.hackerrank.com/challenges/30-testing)  | 30 |  [Solution.py]()  |
+| 27 |  [Testing](https://www.hackerrank.com/challenges/30-testing)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/027.%20Testing.py)  |
 | 28 |  [RegEx,Patterns and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem)  | 30 |  [Solution.py]()  |
 | 29 |  [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)  | 30 |  [Solution.py]()  |
 
