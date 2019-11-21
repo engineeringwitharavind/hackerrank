@@ -88,7 +88,7 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 
 | **Sub-Topic** | **Challenge** | **Solution** | **Score** |
 | ------------- | ------------- | ------------ | --------- |
-
+| Introduction | [Say "Hello,World!" with Python](https://www.hackerrank.com/challenges/py-hello-world) | [Solution]() | 5 |
 
 ### SQL HackerRank Practice Solutions:
 
