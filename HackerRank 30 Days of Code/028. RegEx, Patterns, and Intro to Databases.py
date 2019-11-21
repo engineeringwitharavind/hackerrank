@@ -1,3 +1,5 @@
+# RegEx, Patterns and Intro to Databases in Python
+
 #!/bin/python3
 
 import math
@@ -14,4 +16,3 @@ for _ in range(n):
     gmail_names.append(first_name)
 for name in sorted(gmail_names):
   print(name)
-  
