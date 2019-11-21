@@ -91,10 +91,10 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 | Introduction | [Say "Hello,World!" with Python](https://www.hackerrank.com/challenges/py-hello-world) | [Solution]() | 5 |
 | Introduction | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else) | [Solution]() | 10 |
 | Introduction | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators) | [Solution]() | 10 |
-| Introduction | [Python Division](https://www.hackerrank.com/challenges/python-division) | [Solution]() | 10 |
+| Introduction | [Python: Division](https://www.hackerrank.com/challenges/python-division) | [Solution]() | 10 |
 | Introduction | [Loops]() | [Solution]() | 10 |
-| Introduction | [Arithmetic Operators]() | [Solution]() | 10 |
-| Introduction | [Arithmetic Operators]() | [Solution]() | 10 |
+| Introduction | [Write a Function]() | [Solution]() | 10 |
+| Introduction | [Print Function]() | [Solution]() | 20 |
 
 ### SQL HackerRank Practice Solutions:
 
