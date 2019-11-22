@@ -1,13 +1,10 @@
 # Bitwise AND in Python
 
 #!/bin/python3
-
 import math
 import os
 import random
 import sys
-
-
 
 if __name__ == '__main__':
     t = int(input())
