@@ -1,4 +1,5 @@
-# Python If - Else
+# Python If - Else:
+
 #!/bin/python3
 n = int(input())
 check = {True: "Not Weird", False: "Weird"}
