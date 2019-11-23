@@ -90,7 +90,7 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 | ------------- | ------------- | ------------ | --------- |
 | Introduction | [Say "Hello,World!" with Python](https://www.hackerrank.com/challenges/py-hello-world) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/001.%20Say%20Hello%20World%20with%20Python.py) | 5 |
 | Introduction | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/002.%20Python%20If-Else.py) | 10 |
-| Introduction | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators) | [Solution]() | 10 |
+| Introduction | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/003.%20Arithmetic%20Operations.py) | 10 |
 | Introduction | [Python: Division](https://www.hackerrank.com/challenges/python-division) | [Solution]() | 10 |
 | Introduction | [Loops]() | [Solution]() | 10 |
 | Introduction | [Write a Function]() | [Solution]() | 10 |
