@@ -1,6 +1,5 @@
 # Loops in Python
-
-# simple way
+# simple solution
 n = int(input())
 [print(i**2) for i in range(n)]
 
