@@ -93,7 +93,7 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 | Introduction | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/003.%20Arithmetic%20Operations.py) | 10 |
 | Introduction | [Python: Division](https://www.hackerrank.com/challenges/python-division) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/004.%20Python:%20Division.py) | 10 |
 | Introduction | [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/005.%20Loops.py) | 10 |
-| Introduction | [Write a Function]() | [Solution]() | 10 |
+| Introduction | [Write a Function]() | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/006.%20Write%20a%20Function.py) | 10 |
 | Introduction | [Print Function]() | [Solution]() | 20 |
 
 ### SQL HackerRank Practice Solutions:
