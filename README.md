@@ -94,7 +94,7 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 | Introduction | [Python: Division](https://www.hackerrank.com/challenges/python-division) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/004.%20Python:%20Division.py) | 10 |
 | Introduction | [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/005.%20Loops.py) | 10 |
 | Introduction | [Write a Function](https://www.hackerrank.com/challenges/write-a-function/problem) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/006.%20Write%20a%20Function.py) | 10 |
-| Introduction | [Print Function]() | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/007.%20Print%20Function.py) | 20 |
+| Introduction | [Print Function](https://www.hackerrank.com/challenges/python-print) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/007.%20Print%20Function.py) | 20 |
 
 ### SQL HackerRank Practice Solutions:
 
