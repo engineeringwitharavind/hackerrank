@@ -53,6 +53,7 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 | 29 |  [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)  | 30 |  [Solution.py]()  |
 
 
+
 ### C Language HackerRank Practice Solutions:
 
 | **Sub-Topic** | **Challenge** | **Solution** | **Score** |
@@ -84,6 +85,7 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 | Structs and Enums | [Structuring the Document](https://www.hackerrank.com/challenges/structuring-the-document) | [Solution]() | 60 |
 
 
+
 ### Python HackerRank Practice Solutions:
 
 | **Sub-Topic** | **Challenge** | **Solution** | **Score** |
@@ -98,9 +100,10 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 | Basic Data Types | [Finding the Percentage](https://www.hackerrank.com/challenges/finding-the-percentage) | [Solution]() | 10 |
 | Basic Data Types | [Lists](https://www.hackerrank.com/challenges/python-lists) | [Solution]() | 10 |
 | Basic Data Types | [Tuples](https://www.hackerrank.com/challenges/python-tuples) | [Solution]() | 10 |
-| Basic Data Types | [Nested Lists](https://www.hackerrank.com/challenges/nested-list) | [Solution]() | 10 |
 | Basic Data Types | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions) | [Solution]() | 10 |
 | Basic Data Types | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list) | [Solution]() | 10 |
+| Basic Data Types | [Nested Lists](https://www.hackerrank.com/challenges/nested-list) | [Solution]() | 10 |
+
 
 
 ### SQL HackerRank Practice Solutions:
