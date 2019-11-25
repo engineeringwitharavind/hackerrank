@@ -50,7 +50,7 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 | 26 |  [Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/026.%20Nested%20Logic.py)  |
 | 27 |  [Testing](https://www.hackerrank.com/challenges/30-testing)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/027.%20Testing.py)  |
 | 28 |  [RegEx,Patterns and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns/problem)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/028.%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases.py)  |
-| 29 |  [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)  | 30 |  [Solution.py]()  |
+| 29 |  [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/029.%20Bitwise%20AND.py)  |
 
 
 
@@ -82,7 +82,7 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 | Structs and Enums | [Boxes through a Tunnel](https://www.hackerrank.com/challenges/too-high-boxes) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/022.%20Boxes%20through%20a%20Tunnel.c) | 25 |
 | Structs and Enums | [Small Triangles,Large Triangles](https://www.hackerrank.com/challenges/small-triangles-large-triangles) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/023.%20Small%20Triangles%2C%20Large%20Triangles.c) | 30 |
 | Structs and Enums | [Post Transition](https://www.hackerrank.com/challenges/post-transition) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/024.%20Post%20Transition.c) | 50 |
-| Structs and Enums | [Structuring the Document](https://www.hackerrank.com/challenges/structuring-the-document) | [Solution]() | 60 |
+| Structs and Enums | [Structuring the Document](https://www.hackerrank.com/challenges/structuring-the-document) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/025.%20Structuring%20the%20Document.c) | 60 |
 
 
 
