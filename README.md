@@ -99,7 +99,7 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 | Introduction | [Print Function](https://www.hackerrank.com/challenges/python-print) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/007.%20Print%20Function.py) | 20 |
 | Basic Data Types | [Lists](https://www.hackerrank.com/challenges/python-lists) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/008.%20Lists.py) | 10 |
 | Basic Data Types | [Tuples](https://www.hackerrank.com/challenges/python-tuples) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/009.%20Tuples.py) | 10 |
-| Basic Data Types | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions) | [Solution]() | 10 |
+| Basic Data Types | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/010.%20List%20Comprehensions.py) | 10 |
 | Basic Data Types | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list) | [Solution]() | 10 |
 | Basic Data Types | [Nested Lists](https://www.hackerrank.com/challenges/nested-list) | [Solution]() | 10 |
 | Basic Data Types | [Finding the Percentage](https://www.hackerrank.com/challenges/finding-the-percentage) | [Solution]() | 10 |
