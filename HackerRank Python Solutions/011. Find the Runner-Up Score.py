@@ -1,3 +1,5 @@
+# Find the Runner-Up Score in Python:
+
 n = int(input())
 arr = list(map(int, input().split()))
 largest = max(arr)
