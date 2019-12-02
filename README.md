@@ -107,7 +107,7 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 
 
 ### SQL HackerRank Practice Solutions:
-https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/13.%20Finding%20the%20percentage.py
+
 #### Please Note:
 - If you want to learn or brush up SQL Basics you can learn from Here --> [SQL-Exercises-With-Solutions](https://github.com/aravind-alpha/SQL-Exercises-With-Solutions) repository.
 
