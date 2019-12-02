@@ -102,12 +102,12 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 | Basic Data Types | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/010.%20List%20Comprehensions.py) | 10 |
 | Basic Data Types | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/011.%20Find%20the%20Runner-Up%20Score.py) | 10 |
 | Basic Data Types | [Nested Lists](https://www.hackerrank.com/challenges/nested-list) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/012.%20Nested%20Lists.py) | 10 |
-| Basic Data Types | [Finding the Percentage](https://www.hackerrank.com/challenges/finding-the-percentage) | [Solution]() | 10 |
+| Basic Data Types | [Finding the Percentage](https://www.hackerrank.com/challenges/finding-the-percentage) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/13.%20Finding%20the%20percentage.py) | 10 |
 
 
 
 ### SQL HackerRank Practice Solutions:
-
+https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/13.%20Finding%20the%20percentage.py
 #### Please Note:
 - If you want to learn or brush up SQL Basics you can learn from Here --> [SQL-Exercises-With-Solutions](https://github.com/aravind-alpha/SQL-Exercises-With-Solutions) repository.
 
