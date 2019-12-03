@@ -1,4 +1,5 @@
 # Finding the Percentage:
+
 marks = {}
 for _ in range(int(input())):
     line = input().split()
