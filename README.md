@@ -104,6 +104,8 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 | Basic Data Types | [Nested Lists](https://www.hackerrank.com/challenges/nested-list) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/012.%20Nested%20Lists.py) | 10 |
 | Basic Data Types | [Finding the Percentage](https://www.hackerrank.com/challenges/finding-the-percentage) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/13.%20Finding%20the%20percentage.py) | 10 |
 | Strings | [sWAP cASE]() | [Solution]() | 10 |
+| Strings | [String Split and Join]() | [Solution]() | 10 |
+
 
 
 
