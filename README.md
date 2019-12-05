@@ -106,7 +106,9 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 | Strings | [sWAP cASE]() | [Solution]() | 10 |
 | Strings | [String Split and Join]() | [Solution]() | 10 |
 | Strings | [What's your Name?]() | [Solution]() | 10 |
-| Strings | [Mutations]() | [Solution]() | 10 |
+| Strings | [Mutations]() | [Solution]() | 10 
+| Strings | [Find a String]() | [Solution]() | 10 |
+| Strings | [String Validators]() | [Solution]() | 10 |
 
 
 
