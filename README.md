@@ -105,8 +105,8 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 | Basic Data Types | [Finding the Percentage](https://www.hackerrank.com/challenges/finding-the-percentage) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/13.%20Finding%20the%20percentage.py) | 10 |
 | Strings | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case) | [Solution]() | 10 |
 | Strings | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join) | [Solution]() | 10 |
-| Strings | [What's your Name?]() | [Solution](https://www.hackerrank.com/challenges/whats-your-name) | 10 |
-| Strings | [Mutations]() | [Solution]() | 10 
+| Strings | [What's your Name?](https://www.hackerrank.com/challenges/whats-your-name) | [Solution]() | 10 |
+| Strings | [Mutations](https://www.hackerrank.com/challenges/python-mutations) | [Solution]() | 10 
 | Strings | [Find a String]() | [Solution]() | 10 |
 | Strings | [String Validators]() | [Solution]() | 10 |
 | Strings | [Text Alignment]() | [Solution]() | 10 |
