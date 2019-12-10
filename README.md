@@ -113,6 +113,9 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 | Strings | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap) | [Solution]() | 10 |
 | Strings | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat) | [Solution]() | 10 |
 | Strings | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting) | [Solution]() | 10 |
+| Strings | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli) | [Solution]() | 10 |
+
+
 
 
 
