@@ -1,5 +1,4 @@
 # Lists in Python:
-
 n = int(input())
 lst = []
 for _ in range(n):
