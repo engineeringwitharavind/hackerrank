@@ -1,5 +1,4 @@
 # Nested Lists Implementation in Python:
-
 marksheet = []
 for _ in range(0,int(input())):
     marksheet.append([input(), float(input())])
