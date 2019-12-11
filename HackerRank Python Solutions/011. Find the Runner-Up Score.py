@@ -1,5 +1,4 @@
 # Find the Runner-Up Score in python
-
 n = int(input())
 arr = list(map(int, input().split()))
 l = max(arr)
