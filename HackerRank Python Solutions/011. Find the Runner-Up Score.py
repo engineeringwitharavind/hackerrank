@@ -1,4 +1,3 @@
-# Find the Runner-Up Score in python
 n = int(input())
 arr = list(map(int, input().split()))
 l = max(arr)
@@ -6,5 +5,5 @@ l = max(arr)
 for i in range(n):
     if l == max(arr):
         arr.remove(max(arr))
-
+    
 print(max(arr))
