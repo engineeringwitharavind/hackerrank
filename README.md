@@ -88,37 +88,37 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 
 ### Python HackerRank Practice Solutions:
 
-| **Sub-Topic** | **Challenge** | **Solution** | **Score** |
-| ------------- | ------------- | ------------ | --------- |
-| Introduction | [Say "Hello,World!" with Python](https://www.hackerrank.com/challenges/py-hello-world) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/001.%20Say%20Hello%20World%20with%20Python.py) | 5 |
-| Introduction | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/002.%20Python%20If-Else.py) | 10 |
-| Introduction | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/003.%20Arithmetic%20Operations.py) | 10 |
-| Introduction | [Python: Division](https://www.hackerrank.com/challenges/python-division) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/004.%20Python:%20Division.py) | 10 |
-| Introduction | [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/005.%20Loops.py) | 10 |
-| Introduction | [Write a Function](https://www.hackerrank.com/challenges/write-a-function/problem) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/006.%20Write%20a%20Function.py) | 10 |
-| Introduction | [Print Function](https://www.hackerrank.com/challenges/python-print) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/007.%20Print%20Function.py) | 20 |
-| Basic Data Types | [Lists](https://www.hackerrank.com/challenges/python-lists) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/008.%20Lists.py) | 10 |
-| Basic Data Types | [Tuples](https://www.hackerrank.com/challenges/python-tuples) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/009.%20Tuples.py) | 10 |
-| Basic Data Types | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/010.%20List%20Comprehensions.py) | 10 |
-| Basic Data Types | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/011.%20Find%20the%20Runner-Up%20Score.py) | 10 |
-| Basic Data Types | [Nested Lists](https://www.hackerrank.com/challenges/nested-list) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/012.%20Nested%20Lists.py) | 10 |
-| Basic Data Types | [Finding the Percentage](https://www.hackerrank.com/challenges/finding-the-percentage) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/13.%20Finding%20the%20percentage.py) | 10 |
-| Strings | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case) | [Solution]() | 10 |
-| Strings | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join) | [Solution]() | 10 |
-| Strings | [What's your Name?](https://www.hackerrank.com/challenges/whats-your-name) | [Solution]() | 10 |
-| Strings | [Mutations](https://www.hackerrank.com/challenges/python-mutations) | [Solution]() | 10 
-| Strings | [Find a String](https://www.hackerrank.com/challenges/find-a-string) | [Solution]() | 10 |
-| Strings | [String Validators](https://www.hackerrank.com/challenges/string-validators) | [Solution]() | 10 |
-| Strings | [Text Alignment](https://www.hackerrank.com/challenges/text-alignment) | [Solution]() | 10 |
-| Strings | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap) | [Solution]() | 10 |
-| Strings | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat) | [Solution]() | 10 |
-| Strings | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting) | [Solution]() | 10 |
-| Strings | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli) | [Solution]() | 20 |
-| Strings | [Capitalize!](https://www.hackerrank.com/challenges/capitalize) | [Solution]() | 20 |
-| Strings | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game) | [Solution]() | 40 |
-| Strings | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools) | [Solution]() | 40 |
-| Sets | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets) | [Solution]() | 40 |
-| Sets | [Set.add()](https://www.hackerrank.com/cunionle Operationnges/py-set-add) | [Solution]() | 40 |
+| **Sub-Topic**   | **Challenge** | **Solution** | **Score** |
+| -------------   | ------------- | ------------ | --------- |
+| Introduction   | [Say "Hello,World!" with Python](https://www.hackerrank.com/challenges/py-hello-world) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/001.%20Say%20Hello%20World%20with%20Python.py) | 5 |
+| Introduction   | [Python If-Else](https://www.hackerrank.com/challenges/py-if-else) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/002.%20Python%20If-Else.py) | 10 |
+| Introduction   | [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/003.%20Arithmetic%20Operations.py) | 10 |
+| Introduction   | [Python: Division](https://www.hackerrank.com/challenges/python-division) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/004.%20Python:%20Division.py) | 10 |
+| Introduction   | [Loops](https://www.hackerrank.com/challenges/python-loops/problem) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/005.%20Loops.py) | 10 |
+| Introduction   | [Write a Function](https://www.hackerrank.com/challenges/write-a-function/problem) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/006.%20Write%20a%20Function.py) | 10 |
+| Introduction   | [Print Function](https://www.hackerrank.com/challenges/python-print) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/007.%20Print%20Function.py) | 20 |
+| Basic Data Types   | [Lists](https://www.hackerrank.com/challenges/python-lists) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/008.%20Lists.py) | 10 |
+| Basic Data Types   | [Tuples](https://www.hackerrank.com/challenges/python-tuples) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/009.%20Tuples.py) | 10 |
+| Basic Data Types   | [List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/010.%20List%20Comprehensions.py) | 10 |
+| Basic Data Types   | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/011.%20Find%20the%20Runner-Up%20Score.py) | 10 |
+| Basic Data Types   | [Nested Lists](https://www.hackerrank.com/challenges/nested-list) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/012.%20Nested%20Lists.py) | 10 |
+| Basic Data Types   | [Finding the Percentage](https://www.hackerrank.com/challenges/finding-the-percentage) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/13.%20Finding%20the%20percentage.py) | 10 |
+| Strings   | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case) | [Solution]() | 10 |
+| Strings   | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join) | [Solution]() | 10 |
+| Strings   | [What's your Name?](https://www.hackerrank.com/challenges/whats-your-name) | [Solution]() | 10 |
+| Strings   | [Mutations](https://www.hackerrank.com/challenges/python-mutations) | [Solution]() | 10 
+| Strings   | [Find a String](https://www.hackerrank.com/challenges/find-a-string) | [Solution]() | 10 |
+| Strings   | [String Validators](https://www.hackerrank.com/challenges/string-validators) | [Solution]() | 10 |
+| Strings   | [Text Alignment](https://www.hackerrank.com/challenges/text-alignment) | [Solution]() | 10 |
+| Strings   | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap) | [Solution]() | 10 |
+| Strings   | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat) | [Solution]() | 10 |
+| Strings   | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting) | [Solution]() | 10 |
+| Strings   | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli) | [Solution]() | 20 |
+| Strings   | [Capitalize!](https://www.hackerrank.com/challenges/capitalize) | [Solution]() | 20 |
+| Strings   | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game) | [Solution]() | 40 |
+| Strings   | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools) | [Solution]() | 40 |
+| Sets   | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets) | [Solution]() | 40 |
+| Sets   | [Set.add()](https://www.hackerrank.com/cunionle Operationnges/py-set-add) | [Solution]() | 40 |
 
 
 ### SQL HackerRank Practice Solutions:
