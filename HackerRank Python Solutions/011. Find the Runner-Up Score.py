@@ -1,3 +1,5 @@
+# Find the Second largest number using Python
+
 n = int(input())
 arr = list(map(int, input().split()))
 l = max(arr)
