@@ -115,7 +115,6 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 | Strings | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting) | [Solution]() | 10 |
 | Strings | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli) | [Solution]() | 20 |
 | Strings | [Capitalize!](https://www.hackerrank.com/challenges/capitalize) | [Solution]() | 20 |
-| Strings | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game) | [Solution]() | 40 |
 
 
 
