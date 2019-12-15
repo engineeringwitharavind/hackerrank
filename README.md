@@ -119,7 +119,7 @@ Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and S
 | Strings | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools) | [Solution]() | 40 |
 | Sets | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets) | [Solution]() | 10 |
 | Sets | [Set.add()](https://www.hackerrank.com/cunionle Operationnges/py-set-add) | [Solution]() | 10 |
-| Sets | [Set.discard(),.remove()&.pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop) | [Solution]() | 10 |
+
 
 
 ### SQL HackerRank Practice Solutions:
