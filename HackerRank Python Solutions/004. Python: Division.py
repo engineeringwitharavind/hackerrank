@@ -1,5 +1,2 @@
-# Division in Python
-a = int(input())
-b = int(input())
-# Note: '//' called Floor division which will round the float value and '/' is used as normal division 
-print('{} \n {}'.format((a // b), (a / b)))
+a,b = (int(input()) for _ in range(2))
+print(a//b, a/b, sep ='\n')
