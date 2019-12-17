@@ -1,4 +1,5 @@
 # Find the Runner-Up Score or Finding second largest number
+
 n = int(input())
 arr = list(map(int, input().split()))
 l = max(arr)
