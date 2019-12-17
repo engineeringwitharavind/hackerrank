@@ -1,5 +1,3 @@
-# Find the Second largest number using Python (or) Find the Runner-Up Score
-
 n = int(input())
 arr = list(map(int, input().split()))
 l = max(arr)
