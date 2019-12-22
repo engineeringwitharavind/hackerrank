@@ -1,6 +1,6 @@
 ![Hackerrank Logo](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/hackerrank%20logo.png)
 
-This Repository Contains Hackerrank Practice Solutions done by me which will be eventually updated based on my learning.
+This Repository Contains Hackerrank Practice Solutions done by me which will be eventually updated.
 
 Currently This Repository Contains 30 Days of Code, C, Python(in-progress) and SQL Completely.
 
