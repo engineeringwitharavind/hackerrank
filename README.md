@@ -106,7 +106,6 @@ Currently This Repository Contains 30 Days of Code, C, SQL Completely and Python
 | Strings | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case) | [Solution]() | 10 |
 | Strings | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join) | [Solution]() | 10 |
 | Strings | [What's Your Name](https://www.hackerrank.com/challenges/whats-your-name) | [Solution]() | 10 |
-| Strings | [Mutations](https://www.hackerrank.com/challenges/python-mutations) | [Solution]() | 10 |
 
 
 ### SQL HackerRank Practice Solutions:
