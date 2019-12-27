@@ -103,6 +103,7 @@ Currently This Repository Contains 30 Days of Code, C, SQL Completely and Python
 | Basic Data Types | [Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/011.%20Find%20the%20Runner-Up%20Score.py) | 10 |
 | Basic Data Types | [Nested Lists](https://www.hackerrank.com/challenges/nested-list) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/012.%20Nested%20Lists.py) | 10 |
 | Basic Data Types | [Finding the Percentage](https://www.hackerrank.com/challenges/finding-the-percentage) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/13.%20Finding%20the%20percentage.py) | 10 |
+| Strings | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case) | [Solution]() | 10 |
 
 
 ### SQL HackerRank Practice Solutions:
