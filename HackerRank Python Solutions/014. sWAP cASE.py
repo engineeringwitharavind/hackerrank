@@ -1,3 +1,4 @@
+# sWAP cASE in Python:
 def swap_case(s):
     return s.swapcase()
 
