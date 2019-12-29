@@ -8,6 +8,9 @@ if __name__ == '__main__':
     result = split_and_join(line)
     print(result)
 
+###########################################################################################################################################
+    
+# Alternate solution:
 def split_and_join(line):
     return "-".join(line.split())
 
