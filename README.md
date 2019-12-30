@@ -107,7 +107,7 @@ Currently This Repository Contains 30 Days of Code, C, SQL Completely and Python
 | Strings | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/015.%20What's%20Your%20Name%3F.py) | 10 |
 | Strings | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/016.%20String%20Split%20and%20Join.py) | 10 |
 | Strings | [Mutations](https://www.hackerrank.com/challenges/python-mutations) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/017.%20Mutations.py) | 10 |
-
+| Strings | [Find a String](https://www.hackerrank.com/challenges/find-a-string/problem) | [Solution]() | 10 |
 
 ### SQL HackerRank Practice Solutions:
 
