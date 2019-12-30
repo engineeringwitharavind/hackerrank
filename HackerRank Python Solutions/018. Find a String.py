@@ -1,3 +1,4 @@
+# Find a String in Python
 def count_substring(string, sub_string):
     count = 0
     for n in range(len(string),0,-1):
