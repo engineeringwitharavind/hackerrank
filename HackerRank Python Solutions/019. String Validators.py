@@ -6,6 +6,8 @@ for a in ('isalnum', 'isalpha', 'isdigit', 'islower', 'isupper'):
 
 ##########################################################################################################################################
 
+# Alternate simple Solution:
+
 str = input()
 print(any(c.isalnum() for c in str))
 print(any(c.isalpha() for c in str))
