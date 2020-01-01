@@ -109,6 +109,7 @@ Currently This Repository Contains 30 Days of Code, C, SQL Completely and Python
 | Strings | [Mutations](https://www.hackerrank.com/challenges/python-mutations) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/017.%20Mutations.py) | 10 |
 | Strings | [Find a String](https://www.hackerrank.com/challenges/find-a-string/problem) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/018.%20Find%20a%20String.py) | 10 |
 | Strings | [String Validators](https://www.hackerrank.com/challenges/string-validators/problem) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/019.%20String%20Validators.py) | 10 |
+| Strings | [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem) | [Solution]() | 10 |
 
 
 ### SQL HackerRank Practice Solutions:
