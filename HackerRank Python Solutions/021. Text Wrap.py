@@ -1,3 +1,10 @@
+# Text Wrap in Python:
+
+string, max_width = input(),int(input()
+for i in range(0, len(string), max_width):
+    print(string[i : i + max_width])
+                              
+
 # Alternate Solution: This is for HackerRank Solution which is using "textwrap" module:
 
 import textwrap
