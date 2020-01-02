@@ -1,5 +1,7 @@
 # Text Wrap in Python:
 
+# Without using 'textwrap' Module:
+
 string, max_width = input(),int(input()
 for i in range(0, len(string), max_width):
     print(string[i : i + max_width])
