@@ -1,6 +1,3 @@
-
-
-
 # Alternate Solution: This is for HackerRank Solution which is using "textwrap" module:
 
 import textwrap
