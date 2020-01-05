@@ -1,3 +1,4 @@
+# String Formatting in Python:
 def print_formatted(number):
     width = len("{0:b}".format(number))
     for i in range(1, number+1):
