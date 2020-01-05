@@ -112,6 +112,7 @@ Currently This Repository Contains 30 Days of Code, C, SQL Completely and Python
 | Strings | [Text Alignment](https://www.hackerrank.com/challenges/text-alignment/problem) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/020.%20Text%20Alignment.py) | 10 |
 | Strings | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/021.%20Text%20Wrap.py) | 10 |
 | Strings | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/022.%20Designer%20Door%20Mat.py) | 10 |
+| Strings | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting) | [Solution]() | 10 |
 
 
 ### SQL HackerRank Practice Solutions:
