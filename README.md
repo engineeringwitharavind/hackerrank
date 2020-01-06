@@ -2,7 +2,7 @@
 
 This Repository Contains Hackerrank Practice Solutions done by me which will be eventually updated.
 
-Currently This Repository Contains 30 Days of Code, C, SQL and Python modules 
+Currently This Repository Contains 30 Days of Code, C, SQL and Python modules Completely. 
 
 - [30 Days of Code](#30-days-of-code)
 
