@@ -85,7 +85,6 @@ Currently This Repository Contains 30 Days of Code, C, SQL Completely and Python
 | Structs and Enums | [Structuring the Document](https://www.hackerrank.com/challenges/structuring-the-document) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/025.%20Structuring%20the%20Document.c) | 60 |
 
 
-
 ### Python HackerRank Practice Solutions:
 
 | **Sub-Topic** | **Challenge** | **Solution** | **Score** |
