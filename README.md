@@ -53,7 +53,6 @@ Currently This Repository Contains 30 Days of Code, C, SQL and Python modules Co
 | 29 |  [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/029.%20Bitwise%20AND.py)  |
 
 
-
 ### C Language HackerRank Practice Solutions:
 
 | **Sub-Topic** | **Challenge** | **Solution** | **Score** |
