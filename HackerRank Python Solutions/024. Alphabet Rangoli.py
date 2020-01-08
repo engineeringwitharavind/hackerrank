@@ -1,4 +1,5 @@
 # Alphabet Rangoli in Python
+
 import string
 alpha = string.ascii_lowercase
 
