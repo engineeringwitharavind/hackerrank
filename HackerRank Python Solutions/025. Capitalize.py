@@ -10,3 +10,8 @@ if __name__ == '__main__':
     result = solve(s)
     fptr.write(result + '\n')
     fptr.close()
+
+# Alternate Solution importing module For Capitalizing Each word:
+
+import string
+print(string.capwords(input(), ' '))
