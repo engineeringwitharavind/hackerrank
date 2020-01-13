@@ -3,7 +3,6 @@
 def minion_game(string):
     # your code goes here
     vowels = frozenset('AEIOU')
-
     kevin_score = 0
     stuart_score = 0
     for i in range(len(s)):
