@@ -1,3 +1,4 @@
+# The Minion Game in Python
 def minion_game(string):
     # your code goes here
     vowels = frozenset('AEIOU')
