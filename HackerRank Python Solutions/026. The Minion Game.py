@@ -1,4 +1,5 @@
 # The Minion Game in Python:
+
 def minion_game(string):
     Vowels = frozenset('AEIOU')
     Kevin_score = 0
