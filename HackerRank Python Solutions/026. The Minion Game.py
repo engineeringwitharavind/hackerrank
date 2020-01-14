@@ -17,7 +17,6 @@ def minion_game(string):
     else:
         print("Draw")
 
-
 if __name__ == '__main__':
     s = input()
     minion_game(s)
