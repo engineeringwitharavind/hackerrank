@@ -114,7 +114,7 @@ Currently This Repository Contains 30 Days of Code, C, SQL and Python modules Co
 | Strings | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/024.%20Alphabet%20Rangoli.py) | 20 |
 | Strings | [Capitalize](https://www.hackerrank.com/challenges/capitalize) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/025.%20Capitalize.py) | 20 |
 | Strings | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/026.%20The%20Minion%20Game.py) | 40 |
-| Strings | [Merge the Tools!]() | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/027.%20Merge%20the%20Tools!.py) | 40 |
+| Strings | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/027.%20Merge%20the%20Tools!.py) | 40 |
 
 
 ### SQL HackerRank Practice Solutions:
