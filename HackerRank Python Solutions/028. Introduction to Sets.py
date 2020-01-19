@@ -1,4 +1,5 @@
 # Intro to Sets in Python
+
 def average(array):
     return sum(set(array))/len(set(array))
 
