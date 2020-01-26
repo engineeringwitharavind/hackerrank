@@ -1,5 +1,6 @@
 # Set.add() in Python
 
+# using set.add()
 s = set()
 for i in range(int(input())):
     new_input = input()    
