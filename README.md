@@ -117,7 +117,7 @@ Currently This Repository Contains 30 Days of Code, C, SQL and Python modules Co
 | Strings | [Merge the Tools!](https://www.hackerrank.com/challenges/merge-the-tools/problem) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/027.%20Merge%20the%20Tools!.py) | 40 |
 | Sets | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/028.%20Introduction%20to%20Sets.py) | 10 |
 | Sets | [Set.add()](https://www.hackerrank.com/challenges/py-set-add) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/029.%20Set.add().py) | 10 |
-| Sets | [Set.discard(), .remove(), .pop()]() | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/030.%20Set.discard(),%20.remove()%20&%20.pop().py) | 10 |
+| Sets | [Set.discard(), .remove(), .pop()](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/030.%20Set.discard(),%20.remove()%20&%20.pop().py) | 10 |
 
 
 
