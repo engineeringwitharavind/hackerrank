@@ -1,4 +1,4 @@
-#Set.discard(), .remove() & .pop()
+# Set.discard(), .remove() & .pop() in Python
 
 n = int(input())
 s = set(map(int, input().split())) 
