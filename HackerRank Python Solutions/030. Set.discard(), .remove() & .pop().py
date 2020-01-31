@@ -1,3 +1,4 @@
+#Set.discard(), .remove() & .pop()
 n = int(input())
 s = set(map(int, input().split())) 
 for i in range(int(input())):
