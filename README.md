@@ -12,6 +12,8 @@ Currently This Repository Contains 30 Days of Code, C, SQL and Python modules Co
 
 - [SQL HackerRank Practice Solutions](#sql-hackerrank-practice-solutions)
 
+- [HackerRank-30 Contest](#hackerrank-30-contest)
+
 ### 30 Days of Code:
 
 #### Please Note: 
@@ -29,7 +31,7 @@ Currently This Repository Contains 30 Days of Code, C, SQL and Python modules Co
 | 05 |  [Loops](https://www.hackerrank.com/challenges/30-loops)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/005.%20Loops.py)  |
 | 06 |  [Let's Review](https://www.hackerrank.com/challenges/30-review-loop)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/006.%20Let's%20Review.py)  |
 | 07 |  [Arrays](https://www.hackerrank.com/challenges/30-arrays)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/007.%20Arrays.py)  |
-| 08 |  [Dictionaries and Maps]()  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/008.%20Dictionaries%20and%20Maps.py)  |
+| 08 |  [Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/008.%20Dictionaries%20and%20Maps.py)  |
 | 09 |  [Recursion]()  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/009.%20Recursion%203.py)  |
 | 10 |  [Binary Numbers]()  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/010.%20Binary%20Numbers.py)  |
 | 11 |  [2D Arrays]()  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/011.%202D%20Arrays.py)  |
