@@ -193,4 +193,8 @@ Currently This Repository Contains 30 Days of Code, C, SQL and Python modules Co
 ### HackerRank-30 Contest:
 
 
+| **Sub-Topic** | **Challenge** | **Solution** | **Score** |
+| ------------- | ------------- | ------------ | --------- |
+| HackerRank-30 | []() | [Solution]() | 15 |
+
 Good Luck :thumbsup:
