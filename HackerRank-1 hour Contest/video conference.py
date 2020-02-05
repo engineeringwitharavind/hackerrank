@@ -1,3 +1,7 @@
+# HackerRank-30 Contest
+
+# Video Conference in Python
+
 class node:
     def __init__(self):
         self.child = [None]*26
