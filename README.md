@@ -12,6 +12,7 @@ Currently This Repository Contains 30 Days of Code, C, SQL and Python modules Co
 
 - [SQL HackerRank Practice Solutions](#sql-hackerrank-practice-solutions)
 
+- [HackerRank-30 Contest](#hackerrank-30-contest)
 
 ### 30 Days of Code:
 
@@ -194,6 +195,6 @@ Currently This Repository Contains 30 Days of Code, C, SQL and Python modules Co
 
 | **Sub-Topic** | **Challenge** | **Solution** | **Score** |
 | ------------- | ------------- | ------------ | --------- |
-| HackerRank-30 | [Video Conference](https://www.hackerrank.com/contests/hourrank-30/challenges/video-conference/problem) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank-1%20hour%20Contest/video%20conference.py) | 15 |
+| HackerRank-30 | [Video Conference] () | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank-1%20hour%20Contest/video%20conference.py) | 15 |
 
 Good Luck :thumbsup:
