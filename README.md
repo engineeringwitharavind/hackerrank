@@ -195,6 +195,6 @@ Currently This Repository Contains 30 Days of Code, C, SQL and Python modules Co
 
 | **Sub-Topic** | **Challenge** | **Solution** | **Score** |
 | ------------- | ------------- | ------------ | --------- |
-| HackerRank-30 | [Video Conference] () | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank-1%20hour%20Contest/video%20conference.py) | 15 |
+| HackerRank-30 | [Video Conference] () | [Solution]()  | 15 |
 
 Good Luck :thumbsup:
