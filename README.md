@@ -12,7 +12,6 @@ Currently This Repository Contains 30 Days of Code, C, SQL and Python modules Co
 
 - [SQL HackerRank Practice Solutions](#sql-hackerrank-practice-solutions)
 
-- [HackerRank-30 Contest](#hackerrank-30-contest)
 
 ### 30 Days of Code:
 
