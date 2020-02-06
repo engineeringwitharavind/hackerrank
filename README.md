@@ -195,6 +195,6 @@ Currently This Repository Contains 30 Days of Code, C, SQL and Python modules Co
 
 | **Sub-Topic** | **Challenge** | **Solution** | **Score** |
 | ------------- | ------------- | ------------ | --------- |
-| HackerRank-30 | [Video Conference]() | [Solution]()  | 15 |
+| HackerRank-30 | [Video Conference](https://www.hackerrank.com/contests/hourrank-30/challenges/video-conference/problem)  | [Solution]()  | 15 |
 
 Good Luck :thumbsup:
