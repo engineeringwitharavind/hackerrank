@@ -128,7 +128,7 @@ Currently This Repository Contains 30 Days of Code, C, SQL and Python modules Co
 | Sets | [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20Python%20Solutions/036.%20The%20Captain's%20Room.py) | 10 |
 | Sets | [Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem) | [Solution](https://github.com/aravind-alpha/HackerRank/blob/master/HackerRank%20Python%20Solutions/037.%20Check%20Subset.py) | 10 |
 | Sets | [Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem) | [Solution](https://github.com/aravind-alpha/HackerRank/blob/master/HackerRank%20Python%20Solutions/038.%20Check%20Strict%20Superset.py) | 10 |
-| Math | [Polar Coordinates]() | [Solution](https://github.com/aravind-alpha/HackerRank/blob/master/HackerRank%20Python%20Solutions/039.%20Polar%20Coordinates.py) | 10 |
+| Math | [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [Solution](https://github.com/aravind-alpha/HackerRank/blob/master/HackerRank%20Python%20Solutions/039.%20Polar%20Coordinates.py) | 10 |
 
 
 
