@@ -23,10 +23,10 @@ Currently This Repository Contains 30 Days of Code, C, SQL and Python modules Co
 
 | **Day** | **Challenge** | **Points** | **Python Solution** |
 | ------- | ------------- | ---------- | ---------------- |
-| 00 |  [Hello,World](https://www.hackerrank.com/challenges/30-hello-world)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/000.%20Hello%20World.py)  |
-| 01 |  [Data Types](https://www.hackerrank.com/challenges/30-data-types)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/001.%20Data%20Types.py)  |
-| 02 |  [Operators](https://www.hackerrank.com/challenges/30-operators)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/002.%20Operators.py)  |
-| 03 |  [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/003.%20Intro%20to%20Conditional%20Statements.py)  |
+| 00 |  [Hello,World](https://www.hackerrank.com/challenges/30-hello-world)  | 30 |  [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/000.%20Hello%20World.py)  |
+| 01 |  [Data Types](https://www.hackerrank.com/challenges/30-data-types)  | 30 |  [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/001.%20Data%20Types.py)  |
+| 02 |  [Operators](https://www.hackerrank.com/challenges/30-operators)  | 30 |  [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/002.%20Operators.py)  |
+| 03 |  [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements)  | 30 |  [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/003.%20Intro%20to%20Conditional%20Statements.py)  |
 | 04 |  [Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/004.%20Class%20Vs%20Instance.py)  |
 | 05 |  [Loops](https://www.hackerrank.com/challenges/30-loops)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/005.%20Loops.py)  |
 | 06 |  [Let's Review](https://www.hackerrank.com/challenges/30-review-loop)  | 30 |  [Solution.py](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/006.%20Let's%20Review.py)  |
