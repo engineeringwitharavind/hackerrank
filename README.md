@@ -1,8 +1,6 @@
 ![Hackerrank Logo](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/hackerrank%20logo.png)
 
-This Repository Contains Hackerrank Practice Solutions done by me which will be eventually updated.
-
-Currently This Repository Contains 30 Days of Code, C, SQL and Python modules Completely. 
+This Repository Contains Hackerrank Practice Solutions done by me which will be eventually updated. 
 
 - [30 Days of Code](#30-days-of-code)
 
