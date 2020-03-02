@@ -1,6 +1,6 @@
 ![Hackerrank Logo](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/hackerrank%20logo.png)
 
-This Repository Contains Hackerrank Practice Solutions done by me which will be eventually updated. 
+This Repository Contains Hackerrank Practice Solutions which will be eventually updated as I solve. 
 
 - [30 Days of Code](#30-days-of-code)
 
