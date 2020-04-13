@@ -18,11 +18,11 @@ This Repository Contains Hackerrank Practice Solutions which will be eventually 
 
 | **Day** | **Challenge** | **Points** | **Solution** |
 | ------- | ------------- | ---------- | ------------ |
-| 00 |  [Hello,World!](https://www.hackerrank.com/challenges/js10-hello-world)  | 10 |  [Solution]()  |
-|  |  [Data Types](https://www.hackerrank.com/challenges/js10-data-types)  | 10 |  [Solution]()  |
-| 01 |  [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators)  | 10 |  [Solution]()  |
-|  |  [Functions](https://www.hackerrank.com/challenges/js10-function)  | 10 |  [Solution]()  |
-|  |  [Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const)  | 10 |  [Solution]()  |
+| 00 |  [Hello,World!](https://www.hackerrank.com/challenges/js10-hello-world)  | 10 |  [Solution](https://github.com/aravind-alpha/HackerRank/blob/master/HackerRank%2010%20Days%20of%20JS/00.HelloWorld!.js)  |
+|  |  [Data Types](https://www.hackerrank.com/challenges/js10-data-types)  | 10 |  [Solution](https://github.com/aravind-alpha/HackerRank/blob/master/HackerRank%2010%20Days%20of%20JS/01.DataTypes.js)  |
+| 01 |  [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators)  | 10 |  [Solution](https://github.com/aravind-alpha/HackerRank/blob/master/HackerRank%2010%20Days%20of%20JS/02.ArithmeticOperators.js)  |
+|  |  [Functions](https://www.hackerrank.com/challenges/js10-function)  | 10 |  [Solution](https://github.com/aravind-alpha/HackerRank/blob/master/HackerRank%2010%20Days%20of%20JS/03.Functions.js)  |
+|  |  [Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const)  | 10 |  [Solution](https://github.com/aravind-alpha/HackerRank/blob/master/HackerRank%2010%20Days%20of%20JS/04.LetandConst.js)  |
 
 
 ### 30 Days of Code:
