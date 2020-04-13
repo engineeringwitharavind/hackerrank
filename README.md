@@ -20,6 +20,7 @@ This Repository Contains Hackerrank Practice Solutions which will be eventually 
 | ------- | ------------- | ---------- | ------------ |
 | 00 |  [Hello,World!](https://www.hackerrank.com/challenges/js10-hello-world)  | 10 |  [Solution]()  |
 |  |  [Data Types](https://www.hackerrank.com/challenges/js10-data-types)  | 10 |  [Solution]()  |
+| 01 |  [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators)  | 10 |  [Solution]()  |
 
 
 ### 30 Days of Code:
