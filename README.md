@@ -2,8 +2,6 @@
 
 This Repository Contains Hackerrank Practice Solutions which will be eventually updated as I solve. 
 
-- [10 Days of JS](#10-days-of-js)
-
 - [30 Days of Code](#30-days-of-code)
 
 - [C Language HackerRank Practice Solutions](#c-language-hackerrank-practice-solutions)
@@ -13,17 +11,6 @@ This Repository Contains Hackerrank Practice Solutions which will be eventually 
 - [SQL HackerRank Practice Solutions](#sql-hackerrank-practice-solutions)
 
 - [HackerRank-30 Contest](#hackerrank-30-contest)
-
-### 10 Days of JS:
-
-| **Day** | **Challenge** | **Points** | **Solution** |
-| ------- | ------------- | ---------- | ------------ |
-| 00 |  [Hello,World!](https://www.hackerrank.com/challenges/js10-hello-world)  | 10 |  [Solution](https://github.com/aravind-alpha/HackerRank/blob/master/HackerRank%2010%20Days%20of%20JS/00.HelloWorld!.js)  |
-|  |  [Data Types](https://www.hackerrank.com/challenges/js10-data-types)  | 10 |  [Solution](https://github.com/aravind-alpha/HackerRank/blob/master/HackerRank%2010%20Days%20of%20JS/01.DataTypes.js)  |
-| 01 |  [Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators)  | 10 |  [Solution](https://github.com/aravind-alpha/HackerRank/blob/master/HackerRank%2010%20Days%20of%20JS/02.ArithmeticOperators.js)  |
-|  |  [Functions](https://www.hackerrank.com/challenges/js10-function)  | 10 |  [Solution](https://github.com/aravind-alpha/HackerRank/blob/master/HackerRank%2010%20Days%20of%20JS/03.Functions.js)  |
-|  |  [Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const)  | 10 |  [Solution](https://github.com/aravind-alpha/HackerRank/blob/master/HackerRank%2010%20Days%20of%20JS/04.LetandConst.js)  |
-
 
 ### 30 Days of Code:
 
