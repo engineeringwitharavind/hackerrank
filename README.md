@@ -15,8 +15,8 @@ This Repository Contains Hackerrank Practice Solutions which will be eventually 
 ### 30 Days of Code:
 
 #### Please Note: 
-- I have solved all these 30 Days of Code Problems with **Python** Language. If you are Comfortable coding with any other languages you can add up to this repository if you wish to. 
-- I came across this [nice post.](https://medium.com/startup-grind/30-days-of-coding-56f4e6c72aa2) which will make you not to give up if   you want to learn.
+
+- I came across this [nice post.](https://medium.com/startup-grind/30-days-of-coding-56f4e6c72aa2) which will make you not to give up.
 
 
 | **Day** | **Challenge** | **Points** | **Python Solution** |
