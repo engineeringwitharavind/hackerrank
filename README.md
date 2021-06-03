@@ -12,7 +12,7 @@ This Repository Contains Hackerrank Practice Solutions which will be eventually 
 
 - [HackerRank-30 Contest](#hackerrank-30-contest)
 
-### 30 Days of Code:
+#### 30 Days of Code:
 
 #### Please Note: 
 
@@ -53,7 +53,7 @@ This Repository Contains Hackerrank Practice Solutions which will be eventually 
 | 29 |  [Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and/problem)  | 30 |  [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%2030%20Days%20of%20Code/029.%20Bitwise%20AND.py)  |
 
 
-### C Language HackerRank Practice Solutions:
+#### C Language HackerRank Practice Solutions:
 
 | **Sub-Topic** | **Challenge** | **Solution** | **Score** |
 | ------------- | ------------- | ------------ | --------- |
@@ -84,7 +84,7 @@ This Repository Contains Hackerrank Practice Solutions which will be eventually 
 | Structs and Enums | [Structuring the Document](https://www.hackerrank.com/challenges/structuring-the-document) | [Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20C%20Solutions/025.%20Structuring%20the%20Document.c) | 60 |
 
 
-### Python HackerRank Practice Solutions:
+#### Python HackerRank Practice Solutions:
 
 | **Sub-Topic** | **Challenge** | **Solution** | **Score** |
 | ------------- | ------------- | ------------ | --------- |
@@ -130,7 +130,7 @@ This Repository Contains Hackerrank Practice Solutions which will be eventually 
 
 
 
-### SQL HackerRank Practice Solutions:
+#### SQL HackerRank Practice Solutions:
 
 #### Please Note:
 - If you want to learn or brush up SQL Basics you can learn from Here --> [SQL-Exercises-With-Solutions](https://github.com/aravind-alpha/SQL-Exercises-With-Solutions) repository.
@@ -197,7 +197,7 @@ This Repository Contains Hackerrank Practice Solutions which will be eventually 
 | Alternative Queries | [Draw the Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [MySQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/057.Draw%20the%20Triangle%202.sql) | 25 |
 | Alternative Queries | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | [MS-SQL Solution](https://github.com/aravind-alpha/Hackerrank-Practice-Solutions/blob/master/HackerRank%20SQL%20Solutions/058.Print%20Prime%20Numbers.sql) | 40 |
 
-### HackerRank-30 Contest:
+#### HackerRank-30 Contest:
 
 
 | **Sub-Topic** | **Challenge** | **Solution** | **Score** |
